@@ -1,0 +1,6 @@
+echo "$(tput setaf 1)Upload Start!$(tput sgr0)"
+git add *
+git commit -m "update"
+git push
+
+echo "$(tput setaf 1)Upload Finish!$(tput sgr0)"

@@ -1,0 +1,5 @@
+echo "$(tput setaf 1)Delete Start!$(tput sgr0)"
+git rm  -r -f "Hello看我"
+git commit -m "hehe"
+git push
+echo "$(tput setaf 1)Delete Finish!$(tput sgr0)"

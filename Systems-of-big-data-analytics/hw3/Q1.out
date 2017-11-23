@@ -1,0 +1,14 @@
+ authid |   name    | num_co_auth 
+--------+-----------+-------------
+   6036 | Wei Wang  |        2329
+   4040 | Wei Liu   |        1763
+   2678 | Wei Zhang |        1665
+  21694 | Yan Zhang |        1639
+   2155 | Wei Li    |        1523
+   2958 | Jing Li   |        1463
+   1717 | Li Zhang  |        1444
+  44333 | Yang Liu  |        1410
+   4248 | Yu Zhang  |        1373
+   2431 | Lei Zhang |        1349
+(10 rows)
+

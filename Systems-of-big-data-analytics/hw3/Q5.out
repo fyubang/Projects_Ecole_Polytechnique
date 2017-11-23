@@ -1,0 +1,1621 @@
+ authid |   name    |                                      name                                       | count 
+--------+-----------+---------------------------------------------------------------------------------+-------
+   4040 | Wei Liu   | VCIP                                                                            |     1
+   6036 | Wei Wang  | ACM Conference on Computer and Communications Security                          |     1
+   4040 | Wei Liu   | DASC                                                                            |     1
+  21694 | Yan Zhang | IITSI                                                                           |     4
+   4040 | Wei Liu   | ICAIC (4)                                                                       |     1
+   6036 | Wei Wang  | ICDMA                                                                           |     3
+   4040 | Wei Liu   | Scientometrics                                                                  |     1
+   4040 | Wei Liu   | SEKE                                                                            |     2
+   6036 | Wei Wang  | ISA                                                                             |     1
+   4040 | Wei Liu   | IEEE Transactions on Signal Processing                                          |     7
+   6036 | Wei Wang  | APWCS                                                                           |     1
+   4040 | Wei Liu   | IEEE Trans. Dependable Sec. Comput.                                             |     1
+   6036 | Wei Wang  | J. Sci. Comput.                                                                 |     2
+  21694 | Yan Zhang | J. Electronic Imaging                                                           |     2
+   4040 | Wei Liu   | LCN                                                                             |     2
+   6036 | Wei Wang  | SIAM J. Math. Analysis                                                          |     2
+   6036 | Wei Wang  | TAMC                                                                            |     1
+   6036 | Wei Wang  | ASPLOS                                                                          |     1
+   4040 | Wei Liu   | ICIRA (2)                                                                       |     3
+   6036 | Wei Wang  | CSE                                                                             |     3
+  21694 | Yan Zhang | PAKDD (2)                                                                       |     1
+   6036 | Wei Wang  | Int. J. Hum. Comput. Interaction                                                |     2
+   6036 | Wei Wang  | IEEE T. Automation Science and Engineering                                      |     3
+   6036 | Wei Wang  | BIODEVICES                                                                      |     1
+  21694 | Yan Zhang | CSSE (4)                                                                        |     1
+   4040 | Wei Liu   | IEICE Transactions                                                              |    10
+  21694 | Yan Zhang | Aslib J. Inf. Manag.                                                            |     1
+   6036 | Wei Wang  | Rel. Eng.&Sys. Safety                                                           |     2
+   6036 | Wei Wang  | SAC                                                                             |     2
+   4040 | Wei Liu   | PPOPP                                                                           |     1
+  21694 | Yan Zhang | CGIV                                                                            |     1
+   4040 | Wei Liu   | Future Network&Mobile Summit                                                    |     1
+   4040 | Wei Liu   | IJMA                                                                            |     1
+   6036 | Wei Wang  | J. Comput. Physics                                                              |     1
+   4040 | Wei Liu   | AICI (1)                                                                        |     1
+  21694 | Yan Zhang | ICSH                                                                            |     3
+   6036 | Wei Wang  | CCTA (4)                                                                        |     3
+   4040 | Wei Liu   | Asymptotic Analysis                                                             |     1
+   6036 | Wei Wang  | Int. J. Image Graphics                                                          |     1
+   6036 | Wei Wang  | ICPR (4)                                                                        |     1
+  21694 | Yan Zhang | ISGT Europe                                                                     |     1
+  21694 | Yan Zhang | Prostate Cancer Imaging                                                         |     1
+  21694 | Yan Zhang | FSKD (5)                                                                        |     2
+  21694 | Yan Zhang | SIGIR                                                                           |     1
+   6036 | Wei Wang  | AVSS                                                                            |     1
+   4040 | Wei Liu   | CLOUD                                                                           |     1
+   4040 | Wei Liu   | ICIC (1)                                                                        |     2
+   6036 | Wei Wang  | JCAI                                                                            |     1
+  21694 | Yan Zhang | WWW (Companion Volume)                                                          |     1
+  21694 | Yan Zhang | IEEE Trans. Aerospace and Electronic Systems                                    |     1
+   6036 | Wei Wang  | DASFAA Workshops                                                                |     3
+   6036 | Wei Wang  | ICIRA (1)                                                                       |     1
+   4040 | Wei Liu   | Inf. Sci.                                                                       |     4
+   4040 | Wei Liu   | Computers in Industry                                                           |     1
+   6036 | Wei Wang  | NSS                                                                             |     2
+   6036 | Wei Wang  | IEEE Transactions on Multimedia                                                 |     2
+  21694 | Yan Zhang | ISIA                                                                            |     2
+  21694 | Yan Zhang | IJCAI (1)                                                                       |     2
+   4040 | Wei Liu   | ICDAR                                                                           |     1
+  21694 | Yan Zhang | IJCAI                                                                           |     8
+   4040 | Wei Liu   | ICNC                                                                            |     8
+   6036 | Wei Wang  | EMNLP                                                                           |     2
+   4040 | Wei Liu   | NLDB                                                                            |     1
+   6036 | Wei Wang  | CAD/Graphics                                                                    |     1
+   6036 | Wei Wang  | HPDC                                                                            |     1
+   6036 | Wei Wang  | AMCIS                                                                           |     2
+   6036 | Wei Wang  | Web3D                                                                           |     1
+   6036 | Wei Wang  | Simulation                                                                      |     1
+   4040 | Wei Liu   | Infoscale                                                                       |     1
+  21694 | Yan Zhang | AccessNets                                                                      |     1
+   4040 | Wei Liu   | IPCCC                                                                           |     1
+  21694 | Yan Zhang | IEEE Intelligent Systems                                                        |     2
+   6036 | Wei Wang  | CDC-ECE                                                                         |     3
+  21694 | Yan Zhang | 3DOR                                                                            |     1
+  21694 | Yan Zhang | IJAACS                                                                          |     3
+   4040 | Wei Liu   | ISM                                                                             |     1
+   4040 | Wei Liu   | BMEI                                                                            |     3
+   6036 | Wei Wang  | FTCS                                                                            |     1
+  21694 | Yan Zhang | IEEE Trans. Smart Grid                                                          |     7
+   6036 | Wei Wang  | ICICIC (2)                                                                      |     1
+  21694 | Yan Zhang | IIiX                                                                            |     2
+   4040 | Wei Liu   | Computer Standards&Interfaces                                                   |     1
+   4040 | Wei Liu   | ICSON                                                                           |     2
+  21694 | Yan Zhang | IPCV                                                                            |     1
+  21694 | Yan Zhang | Applied Mathematics and Computation                                             |     1
+   4040 | Wei Liu   | SDM                                                                             |     3
+   4040 | Wei Liu   | CoRR                                                                            |    31
+  21694 | Yan Zhang | ICCAD                                                                           |     6
+  21694 | Yan Zhang | ECSQARU-FAPR                                                                    |     1
+   6036 | Wei Wang  | CSCW                                                                            |     1
+  21694 | Yan Zhang | IEEE Trans. Pattern Anal. Mach. Intell.                                         |     1
+   6036 | Wei Wang  | ICSOFT EA                                                                       |     1
+   4040 | Wei Liu   | GreenCom                                                                        |     1
+  21694 | Yan Zhang | ICPP Workshops                                                                  |     1
+   6036 | Wei Wang  | ISPASS                                                                          |     2
+   6036 | Wei Wang  | CyberSecurity                                                                   |     1
+   6036 | Wei Wang  | CLSW                                                                            |     1
+   6036 | Wei Wang  | Edutainment                                                                     |     4
+   4040 | Wei Liu   | ETFA                                                                            |     2
+   4040 | Wei Liu   | IJCNN                                                                           |     1
+  21694 | Yan Zhang | IEEE Journal on Selected Areas in Communications                                |     5
+   4040 | Wei Liu   | IMSCCS (1)                                                                      |     1
+   6036 | Wei Wang  | EURASIP J. Wireless Comm. and Networking                                        |     2
+   4040 | Wei Liu   | J. Comput. Sci. Technol.                                                        |     2
+   6036 | Wei Wang  | ICNS                                                                            |     1
+   4040 | Wei Liu   | NEW2AN                                                                          |     1
+   4040 | Wei Liu   | MUE                                                                             |     1
+   6036 | Wei Wang  | Oper. Res. Lett.                                                                |     1
+   4040 | Wei Liu   | EMEIT                                                                           |     4
+   4040 | Wei Liu   | IPDPS                                                                           |     1
+   4040 | Wei Liu   | SEAMS                                                                           |     1
+  21694 | Yan Zhang | FTfJP@ECOOP                                                                     |     1
+   4040 | Wei Liu   | HCI (12)                                                                        |     1
+   6036 | Wei Wang  | WHICEB                                                                          |     1
+   4040 | Wei Liu   | Language Resources and Evaluation                                               |     1
+  21694 | Yan Zhang | WWW                                                                             |     1
+  21694 | Yan Zhang | CIS                                                                             |     1
+   6036 | Wei Wang  | Journal of Intelligent and Robotic Systems                                      |     1
+   6036 | Wei Wang  | IJWMIP                                                                          |     1
+  21694 | Yan Zhang | I. J. Network Security                                                          |     5
+   6036 | Wei Wang  | IEEE Transactions on Information Forensics and Security                         |     2
+   6036 | Wei Wang  | Appl. Soft Comput.                                                              |     2
+   6036 | Wei Wang  | BIFE                                                                            |     2
+   4040 | Wei Liu   | CIDM                                                                            |     1
+   4040 | Wei Liu   | Mach. Vis. Appl.                                                                |     1
+   4040 | Wei Liu   | CEC                                                                             |     2
+   4040 | Wei Liu   | IEEE ICCI                                                                       |     1
+   6036 | Wei Wang  | IJCAT                                                                           |     2
+   4040 | Wei Liu   | IEEE Trans. on Circuits and Systems                                             |     1
+   4040 | Wei Liu   | IEEE Transactions on Intelligent Transportation Systems                         |     2
+   6036 | Wei Wang  | ICCV                                                                            |     2
+   4040 | Wei Liu   | Neurocomputing                                                                  |    10
+  21694 | Yan Zhang | CCCV (1)                                                                        |     1
+   4040 | Wei Liu   | Microelectronics Journal                                                        |     1
+   4040 | Wei Liu   | Data Min. Knowl. Discov.                                                        |     1
+  21694 | Yan Zhang | IEEE Communications Magazine                                                    |     9
+   4040 | Wei Liu   | German Conference on Bioinformatics                                             |     1
+   4040 | Wei Liu   | ACIIDS (2)                                                                      |     1
+  21694 | Yan Zhang | ISCC                                                                            |     1
+   4040 | Wei Liu   | J. Network and Computer Applications                                            |     2
+   6036 | Wei Wang  | IEEE MS                                                                         |     1
+  21694 | Yan Zhang | PDCAT                                                                           |     2
+   6036 | Wei Wang  | NCA                                                                             |     1
+   6036 | Wei Wang  | JECO                                                                            |     1
+  21694 | Yan Zhang | IEEE Transactions on Industrial Electronics                                     |     1
+   4040 | Wei Liu   | HCI (19)                                                                        |     1
+  21694 | Yan Zhang | KSEM                                                                            |     1
+   6036 | Wei Wang  | AVBPA                                                                           |     1
+  21694 | Yan Zhang | SIGMETRICS                                                                      |     1
+   4040 | Wei Liu   | COMPSAC                                                                         |     1
+   4040 | Wei Liu   | CVPR                                                                            |    13
+   6036 | Wei Wang  | J. Real-Time Image Processing                                                   |     1
+   4040 | Wei Liu   | Computer-Aided Design                                                           |     2
+   4040 | Wei Liu   | ICML                                                                            |     3
+  21694 | Yan Zhang | IJSSE                                                                           |     1
+  21694 | Yan Zhang | ILPS                                                                            |     1
+  21694 | Yan Zhang | WOCC                                                                            |     1
+   6036 | Wei Wang  | APSCC                                                                           |     3
+   4040 | Wei Liu   | ICOIN                                                                           |     1
+  21694 | Yan Zhang | J. Vis. Lang. Comput.                                                           |     1
+   4040 | Wei Liu   | ISCAS (4)                                                                       |     1
+   6036 | Wei Wang  | J. Inf. Sci. Eng.                                                               |     1
+   4040 | Wei Liu   | Mobile HCI                                                                      |     1
+   6036 | Wei Wang  | PolTAL                                                                          |     1
+  21694 | Yan Zhang | ICWI                                                                            |     1
+  21694 | Yan Zhang | ICMLC                                                                           |     5
+   4040 | Wei Liu   | CSSP                                                                            |     1
+  21694 | Yan Zhang | Eurographics (Medical Prize)                                                    |     1
+  21694 | Yan Zhang | PST                                                                             |     1
+   6036 | Wei Wang  | CATA                                                                            |     1
+   6036 | Wei Wang  | BIBM                                                                            |     9
+  21694 | Yan Zhang | DSD                                                                             |     1
+   6036 | Wei Wang  | CCBR                                                                            |     1
+   6036 | Wei Wang  | Journal of Multimedia                                                           |     2
+   6036 | Wei Wang  | MobiCom                                                                         |     2
+   4040 | Wei Liu   | ACM Comput. Surv.                                                               |     1
+   6036 | Wei Wang  | ICC Workshops                                                                   |     1
+  21694 | Yan Zhang | J. Sensors                                                                      |     1
+   4040 | Wei Liu   | CSIE (5)                                                                        |     1
+  21694 | Yan Zhang | Wireless Networks                                                               |     1
+   6036 | Wei Wang  | J. Comput. Meth. in Science and Engineering                                     |     1
+   4040 | Wei Liu   | NeuroImage                                                                      |     1
+   4040 | Wei Liu   | FSKD (2)                                                                        |     2
+  21694 | Yan Zhang | ISSCC                                                                           |     3
+   6036 | Wei Wang  | CloudCom                                                                        |     1
+   6036 | Wei Wang  | Int. J. Computer Integrated Manufacturing                                       |     2
+  21694 | Yan Zhang | Neural Computing and Applications                                               |     1
+   6036 | Wei Wang  | CSIE (6)                                                                        |     2
+   6036 | Wei Wang  | APWeb/WAIM Workshops                                                            |     2
+   4040 | Wei Liu   | The Journal of Supercomputing                                                   |     1
+   4040 | Wei Liu   | Communications in Statistics - Simulation and Computation                       |     1
+   6036 | Wei Wang  | IEEE Trans. Computers                                                           |     3
+   4040 | Wei Liu   | ISICA (1)                                                                       |     1
+   4040 | Wei Liu   | ICSC                                                                            |     1
+   4040 | Wei Liu   | ECCV (2)                                                                        |     1
+   4040 | Wei Liu   | Multimedia Tools Appl.                                                          |     1
+   6036 | Wei Wang  | Winter Simulation Conference                                                    |     2
+  21694 | Yan Zhang | MCAM                                                                            |     1
+   6036 | Wei Wang  | ICARCV                                                                          |     2
+   4040 | Wei Liu   | European Journal of Operational Research                                        |     1
+  21694 | Yan Zhang | FGCN (2)                                                                        |     1
+   6036 | Wei Wang  | International Journal of Geographical Information Science                       |     2
+   6036 | Wei Wang  | ACM Trans. Design Autom. Electr. Syst.                                          |     1
+   4040 | Wei Liu   | SOCASE                                                                          |     1
+   4040 | Wei Liu   | ENTER                                                                           |     1
+  21694 | Yan Zhang | ICPADS                                                                          |     1
+   6036 | Wei Wang  | NEMS                                                                            |    19
+   4040 | Wei Liu   | Brain Connectivity                                                              |     1
+   6036 | Wei Wang  | Frontiers of Computer Science in China                                          |     2
+  21694 | Yan Zhang | IEEE T. Geoscience and Remote Sensing                                           |     6
+   6036 | Wei Wang  | IEEE Signal Process. Lett.                                                      |     3
+   4040 | Wei Liu   | ICDM                                                                            |     3
+   6036 | Wei Wang  | ICYCS                                                                           |     3
+   4040 | Wei Liu   | GPC                                                                             |     1
+   4040 | Wei Liu   | GreenCom/iThings/CPScom                                                         |     1
+   4040 | Wei Liu   | ICASSP (5)                                                                      |     2
+  21694 | Yan Zhang | CASoN                                                                           |     1
+   4040 | Wei Liu   | SenSys                                                                          |     1
+   4040 | Wei Liu   | ACL (2)                                                                         |     1
+   4040 | Wei Liu   | ISCAS                                                                           |     3
+  21694 | Yan Zhang | IEEE Wireless Commun. Letters                                                   |     2
+   4040 | Wei Liu   | AAAI                                                                            |     7
+   4040 | Wei Liu   | International Journal of Information Technology and Decision Making             |     1
+   6036 | Wei Wang  | IEEE Access                                                                     |     1
+   6036 | Wei Wang  | CIKM                                                                            |     5
+  21694 | Yan Zhang | CIT (2)                                                                         |     2
+  21694 | Yan Zhang | ICAT Workshops                                                                  |     1
+   6036 | Wei Wang  | BIC-TA                                                                          |     2
+  21694 | Yan Zhang | COMPSAC (1)                                                                     |     2
+  21694 | Yan Zhang | ACIS-ICIS                                                                       |     2
+  21694 | Yan Zhang | ISMIS                                                                           |     8
+  21694 | Yan Zhang | Signal Processing                                                               |     1
+   6036 | Wei Wang  | IbPRIA (2)                                                                      |     1
+  21694 | Yan Zhang | Artif. Intell.                                                                  |     6
+  21694 | Yan Zhang | IScIDE                                                                          |     2
+   6036 | Wei Wang  | IEICE Electronic Express                                                        |     3
+   4040 | Wei Liu   | TrustCom                                                                        |     1
+  21694 | Yan Zhang | IEEE Trans. on CAD of Integrated Circuits and Systems                           |     1
+   4040 | Wei Liu   | ISCA                                                                            |     1
+  21694 | Yan Zhang | SIGIR Forum                                                                     |     1
+  21694 | Yan Zhang | ESIAT (2)                                                                       |     1
+  21694 | Yan Zhang | IEEE Network                                                                    |    11
+   4040 | Wei Liu   | IEEE Trans. Circuits Syst. Video Techn.                                         |     2
+  21694 | Yan Zhang | FGCN (1)                                                                        |     3
+   4040 | Wei Liu   | FUSION                                                                          |     1
+   6036 | Wei Wang  | HICSS                                                                           |     1
+   4040 | Wei Liu   | Australian Conference on Artificial Intelligence                                |     1
+  21694 | Yan Zhang | ACM Transactions on Algorithms                                                  |     1
+   6036 | Wei Wang  | CSC                                                                             |     1
+  21694 | Yan Zhang | FSKD                                                                            |    10
+   4040 | Wei Liu   | CCECE                                                                           |     2
+   4040 | Wei Liu   | J. Electrical and Computer Engineering                                          |     1
+   4040 | Wei Liu   | T. Large-Scale Data- and Knowledge-Centered Systems                             |     1
+  21694 | Yan Zhang | IJDSN                                                                           |     4
+   4040 | Wei Liu   | ROBIO                                                                           |    11
+  21694 | Yan Zhang | ICICS                                                                           |     2
+   6036 | Wei Wang  | JSEA                                                                            |     2
+   6036 | Wei Wang  | ICNP                                                                            |     2
+   6036 | Wei Wang  | ICIP                                                                            |    14
+   6036 | Wei Wang  | TKDD                                                                            |     1
+   4040 | Wei Liu   | iJOE                                                                            |     1
+   6036 | Wei Wang  | WKDD                                                                            |     1
+   4040 | Wei Liu   | ICTAI                                                                           |     1
+   6036 | Wei Wang  | CDVE                                                                            |     2
+  21694 | Yan Zhang | TRETS                                                                           |     1
+  21694 | Yan Zhang | IMSCCS                                                                          |     1
+  21694 | Yan Zhang | Journal of Chemical Information and Modeling                                    |     1
+   4040 | Wei Liu   | CICLing (1)                                                                     |     2
+   4040 | Wei Liu   | DIMEA                                                                           |     2
+  21694 | Yan Zhang | JCDL                                                                            |     3
+  21694 | Yan Zhang | CLUSTER                                                                         |     2
+  21694 | Yan Zhang | BigData Congress                                                                |     1
+  21694 | Yan Zhang | IAS (1)                                                                         |     1
+   6036 | Wei Wang  | IEEE T. Vehicular Technology                                                    |     5
+  21694 | Yan Zhang | Peer-to-Peer Networking and Applications                                        |     1
+   6036 | Wei Wang  | AMT                                                                             |     1
+   4040 | Wei Liu   | MBIA                                                                            |     2
+   6036 | Wei Wang  | IEEE Trans. VLSI Syst.                                                          |     1
+   4040 | Wei Liu   | VTC Spring                                                                      |    15
+   4040 | Wei Liu   | Journal of Interconnection Networks                                             |     1
+   6036 | Wei Wang  | Decision Support Systems                                                        |     1
+  21694 | Yan Zhang | ICAIC (1)                                                                       |     2
+   4040 | Wei Liu   | ISVC (2)                                                                        |     2
+   4040 | Wei Liu   | WCSP                                                                            |     1
+   4040 | Wei Liu   | WiMob                                                                           |     1
+  21694 | Yan Zhang | WAIM                                                                            |     6
+   4040 | Wei Liu   | Inf. Syst. J.                                                                   |     1
+   4040 | Wei Liu   | Inf. Syst.                                                                      |     1
+  21694 | Yan Zhang | EUC                                                                             |     1
+   6036 | Wei Wang  | CIT                                                                             |     2
+   4040 | Wei Liu   | TREC                                                                            |     1
+   4040 | Wei Liu   | FUZZ-IEEE                                                                       |     2
+   6036 | Wei Wang  | JCP                                                                             |     6
+   6036 | Wei Wang  | SiPS                                                                            |     1
+  21694 | Yan Zhang | CISST                                                                           |     1
+   6036 | Wei Wang  | IEEE J. Biomedical and Health Informatics                                       |     2
+   6036 | Wei Wang  | CCNC                                                                            |     2
+  21694 | Yan Zhang | ISPACS                                                                          |     1
+   4040 | Wei Liu   | PLoS Computational Biology                                                      |     1
+  21694 | Yan Zhang | Journal of Research and Practice in Information Technology                      |     1
+   4040 | Wei Liu   | Simulation Modelling Practice and Theory                                        |     1
+   4040 | Wei Liu   | VTC Fall                                                                        |     7
+   6036 | Wei Wang  | IEEE Communications Letters                                                     |     5
+  21694 | Yan Zhang | IEEE Transactions on Wireless Communications                                    |     9
+  21694 | Yan Zhang | Database                                                                        |     2
+  21694 | Yan Zhang | TIIS                                                                            |     2
+   6036 | Wei Wang  | J. Applied Mathematics                                                          |     6
+  21694 | Yan Zhang | Networks                                                                        |     1
+   6036 | Wei Wang  | IEEE Congress on Evolutionary Computation                                       |     3
+  21694 | Yan Zhang | JAMIA                                                                           |     1
+   6036 | Wei Wang  | FSKD (1)                                                                        |     3
+   6036 | Wei Wang  | RAM                                                                             |     1
+   4040 | Wei Liu   | AINA                                                                            |     1
+   6036 | Wei Wang  | IEEE Transactions on Image Processing                                           |     3
+   6036 | Wei Wang  | GRAPHITE                                                                        |     1
+   4040 | Wei Liu   | SLSP                                                                            |     1
+   4040 | Wei Liu   | SwSTE                                                                           |     1
+   6036 | Wei Wang  | MSR                                                                             |     3
+   6036 | Wei Wang  | SSDBM                                                                           |     1
+   4040 | Wei Liu   | CHI Extended Abstracts                                                          |     2
+  21694 | Yan Zhang | CIT/IUCC/DASC/PICom                                                             |     1
+  21694 | Yan Zhang | IIH-MSP                                                                         |     2
+   4040 | Wei Liu   | Information Systems Perspectives and Challenges in the Context of Globalization |     1
+   6036 | Wei Wang  | IWBRS                                                                           |     1
+   6036 | Wei Wang  | GLOBECOM                                                                        |    12
+   6036 | Wei Wang  | JCIT                                                                            |     1
+   4040 | Wei Liu   | ICIP (1)                                                                        |     2
+  21694 | Yan Zhang | CCTA (1)                                                                        |     1
+   4040 | Wei Liu   | CIMCA/IAWTIC                                                                    |     2
+   4040 | Wei Liu   | Australasian Conference on Artificial Intelligence                              |     6
+   6036 | Wei Wang  | GCC                                                                             |     5
+  21694 | Yan Zhang | Information Systems Frontiers                                                   |     1
+  21694 | Yan Zhang | ECUMN                                                                           |     1
+   6036 | Wei Wang  | CSAR@SenSys                                                                     |     1
+   6036 | Wei Wang  | SACMAT                                                                          |     1
+   6036 | Wei Wang  | SKG                                                                             |     2
+   6036 | Wei Wang  | KDD                                                                             |     2
+  21694 | Yan Zhang | APWeb                                                                           |     3
+  21694 | Yan Zhang | ICIC (2)                                                                        |     3
+  21694 | Yan Zhang | TRIDENTCOM                                                                      |     1
+   4040 | Wei Liu   | J. Computational Applied Mathematics                                            |     5
+  21694 | Yan Zhang | Australian Joint Conference on Artificial Intelligence                          |     4
+   6036 | Wei Wang  | CSO (2)                                                                         |     1
+   4040 | Wei Liu   | ISCSCT (2)                                                                      |     3
+  21694 | Yan Zhang | WPMC                                                                            |     1
+   4040 | Wei Liu   | ATC                                                                             |     1
+   4040 | Wei Liu   | ChinaGrid                                                                       |     1
+   6036 | Wei Wang  | ICHIT                                                                           |     1
+   6036 | Wei Wang  | CIBCB                                                                           |     1
+   4040 | Wei Liu   | Mobidata@MobiHoc                                                                |     1
+   6036 | Wei Wang  | AMIA                                                                            |     2
+   4040 | Wei Liu   | DEXA Workshops                                                                  |     1
+  21694 | Yan Zhang | ICIS                                                                            |     3
+   6036 | Wei Wang  | INFOCOM                                                                         |     3
+  21694 | Yan Zhang | FMCAD                                                                           |     2
+   4040 | Wei Liu   | RSCTC                                                                           |     2
+   6036 | Wei Wang  | Journal of Zhejiang University - Science C                                      |     3
+   4040 | Wei Liu   | BHI                                                                             |     1
+   6036 | Wei Wang  | MONET                                                                           |     2
+   4040 | Wei Liu   | ICIC (3)                                                                        |     3
+  21694 | Yan Zhang | GrC                                                                             |     1
+   6036 | Wei Wang  | Computer Graphics International                                                 |     1
+  21694 | Yan Zhang | ACNS                                                                            |     1
+   6036 | Wei Wang  | International Journal of Parallel Programming                                   |     1
+  21694 | Yan Zhang | CNS                                                                             |     1
+  21694 | Yan Zhang | Telecommunication Systems                                                       |     1
+  21694 | Yan Zhang | CVPR Workshops                                                                  |     1
+  21694 | Yan Zhang | AICI (2)                                                                        |     3
+   4040 | Wei Liu   | CVPR (2)                                                                        |     3
+   6036 | Wei Wang  | CSSE (2)                                                                        |     1
+  21694 | Yan Zhang | IET Wireless Sensor Systems                                                     |     1
+   4040 | Wei Liu   | IEEE Transactions on Information Theory                                         |     2
+  21694 | Yan Zhang | ICA                                                                             |     1
+  21694 | Yan Zhang | IEEE Wireless Commun.                                                           |     5
+   4040 | Wei Liu   | iThings/CPSCom                                                                  |     3
+  21694 | Yan Zhang | Studia Logica                                                                   |     1
+   6036 | Wei Wang  | ISR/ROBOTIK                                                                     |     1
+   4040 | Wei Liu   | ICSI (2)                                                                        |     2
+   4040 | Wei Liu   | IJMTM                                                                           |     1
+   6036 | Wei Wang  | MCSS                                                                            |     1
+   4040 | Wei Liu   | CyberC                                                                          |     1
+   6036 | Wei Wang  | TrustCom/BigDataSE/ISPA (1)                                                     |     1
+   4040 | Wei Liu   | Knowl. Inf. Syst.                                                               |     1
+   6036 | Wei Wang  | Automatica                                                                      |     5
+   6036 | Wei Wang  | EWSN                                                                            |     1
+   6036 | Wei Wang  | J. Exp. Theor. Artif. Intell.                                                   |     2
+   6036 | Wei Wang  | LREC                                                                            |     1
+   6036 | Wei Wang  | IEEE T. Human-Machine Systems                                                   |     1
+  21694 | Yan Zhang | Multimedia Syst.                                                                |     1
+  21694 | Yan Zhang | WODES                                                                           |     1
+   4040 | Wei Liu   | ICS                                                                             |     5
+   6036 | Wei Wang  | PACIS                                                                           |     8
+   4040 | Wei Liu   | IJCSE                                                                           |     1
+  21694 | Yan Zhang | HPCA                                                                            |     1
+  21694 | Yan Zhang | SoCC                                                                            |     1
+   4040 | Wei Liu   | Bioinformatics                                                                  |     2
+   4040 | Wei Liu   | ISC                                                                             |     1
+  21694 | Yan Zhang | PRICAI                                                                          |     2
+   4040 | Wei Liu   | Micromachines                                                                   |     1
+   4040 | Wei Liu   | NIPS                                                                            |     2
+  21694 | Yan Zhang | Neural Parallel&Scientific Comp.                                                |     1
+   4040 | Wei Liu   | FSKD (3)                                                                        |     2
+   6036 | Wei Wang  | NSPW                                                                            |     1
+   6036 | Wei Wang  | GEM                                                                             |     1
+  21694 | Yan Zhang | CSCWD (2)                                                                       |     1
+   6036 | Wei Wang  | NSDI                                                                            |     1
+   4040 | Wei Liu   | Comp. in Bio. and Med.                                                          |     2
+   6036 | Wei Wang  | SIS                                                                             |     1
+   4040 | Wei Liu   | WCNIS                                                                           |     1
+   6036 | Wei Wang  | Security and Communication Networks                                             |     3
+  21694 | Yan Zhang | KES (4)                                                                         |     2
+   4040 | Wei Liu   | ICNSC                                                                           |     3
+   6036 | Wei Wang  | ICC                                                                             |     8
+  21694 | Yan Zhang | BuildSys@SenSys                                                                 |     1
+   4040 | Wei Liu   | Computers&Mathematics with Applications                                         |     5
+  21694 | Yan Zhang | ICPR (3)                                                                        |     1
+  21694 | Yan Zhang | Computer Networks                                                               |     3
+   6036 | Wei Wang  | HRI                                                                             |     1
+   4040 | Wei Liu   | TBC                                                                             |     1
+  21694 | Yan Zhang | LISA                                                                            |     1
+   4040 | Wei Liu   | Expert Syst. Appl.                                                              |     3
+   6036 | Wei Wang  | WPMC                                                                            |     3
+   4040 | Wei Liu   | ISWS                                                                            |     1
+   4040 | Wei Liu   | IEEE SCC                                                                        |     2
+  21694 | Yan Zhang | ECAI                                                                            |     3
+  21694 | Yan Zhang | ACSC                                                                            |     2
+  21694 | Yan Zhang | ICONIP (2)                                                                      |     2
+   6036 | Wei Wang  | ICIC (2)                                                                        |     2
+   6036 | Wei Wang  | APWeb                                                                           |     1
+   4040 | Wei Liu   | TOMCCAP                                                                         |     1
+  21694 | Yan Zhang | KDD                                                                             |     1
+   6036 | Wei Wang  | CSIE (3)                                                                        |     1
+   6036 | Wei Wang  | Future Generation Comp. Syst.                                                   |     1
+  21694 | Yan Zhang | COCOA                                                                           |     1
+   4040 | Wei Liu   | NORCHIP                                                                         |     1
+   6036 | Wei Wang  | SOFTVIS                                                                         |     1
+   4040 | Wei Liu   | ICEBE                                                                           |     1
+  21694 | Yan Zhang | ICEIS (4)                                                                       |     1
+  21694 | Yan Zhang | SKG                                                                             |     1
+  21694 | Yan Zhang | SACMAT                                                                          |     1
+  21694 | Yan Zhang | GLOBECOM                                                                        |    17
+   6036 | Wei Wang  | CCTA (1)                                                                        |     3
+  21694 | Yan Zhang | JCIT                                                                            |     1
+   6036 | Wei Wang  | IROS                                                                            |     7
+   4040 | Wei Liu   | Computing and Informatics                                                       |     1
+   6036 | Wei Wang  | Information Systems Frontiers                                                   |     1
+  21694 | Yan Zhang | GCC                                                                             |     1
+   6036 | Wei Wang  | IGARSS (2)                                                                      |     1
+   4040 | Wei Liu   | PIMRC                                                                           |     4
+   6036 | Wei Wang  | CVPR Workshops                                                                  |     2
+   6036 | Wei Wang  | Behaviour&IT                                                                    |     1
+   6036 | Wei Wang  | Telecommunication Systems                                                       |     2
+   6036 | Wei Wang  | GrC                                                                             |     1
+   4040 | Wei Liu   | EURASIP J. Adv. Sig. Proc.                                                      |     1
+   6036 | Wei Wang  | MICCAI (3)                                                                      |     1
+  21694 | Yan Zhang | INFOCOM                                                                         |     3
+  21694 | Yan Zhang | Journal of Zhejiang University - Science C                                      |     1
+   6036 | Wei Wang  | INFOCOM Workshops                                                               |     1
+  21694 | Yan Zhang | MONET                                                                           |    12
+  21694 | Yan Zhang | AMIA                                                                            |     2
+   4040 | Wei Liu   | CISIS                                                                           |     1
+   6036 | Wei Wang  | ICIS                                                                            |     4
+  21694 | Yan Zhang | PACIS                                                                           |     1
+  21694 | Yan Zhang | Frontiers of Computer Science                                                   |     2
+   4040 | Wei Liu   | CDC                                                                             |     1
+   4040 | Wei Liu   | ICFIE                                                                           |     1
+   6036 | Wei Wang  | SoCC                                                                            |     1
+   6036 | Wei Wang  | HPCA                                                                            |     1
+   6036 | Wei Wang  | Journal of Intelligent and Fuzzy Systems                                        |     1
+   4040 | Wei Liu   | IDAACS                                                                          |     1
+   4040 | Wei Liu   | ICNC (1)                                                                        |     1
+   6036 | Wei Wang  | CSSE (6)                                                                        |     1
+   4040 | Wei Liu   | Cognition, Technology&Work                                                      |     1
+   6036 | Wei Wang  | AINA (1)                                                                        |     1
+   6036 | Wei Wang  | DASFAA (1)                                                                      |     1
+  21694 | Yan Zhang | IEEE Transactions on Communications                                             |    10
+   6036 | Wei Wang  | DMIN                                                                            |     1
+   4040 | Wei Liu   | IEEE Trans. Med. Imaging                                                        |     1
+   6036 | Wei Wang  | CCA                                                                             |     2
+   4040 | Wei Liu   | APNOMS                                                                          |     2
+  21694 | Yan Zhang | Automatica                                                                      |     1
+   6036 | Wei Wang  | NLPRS                                                                           |     1
+   6036 | Wei Wang  | J. Digital Imaging                                                              |     3
+   6036 | Wei Wang  | IEEE Wireless Commun.                                                           |     1
+   6036 | Wei Wang  | IPDPS Workshops                                                                 |     1
+  21694 | Yan Zhang | ICADL                                                                           |     1
+   4040 | Wei Liu   | CGO                                                                             |     2
+   4040 | Wei Liu   | ADMA (1)                                                                        |     2
+   6036 | Wei Wang  | DATE                                                                            |     1
+  21694 | Yan Zhang | IJSTM                                                                           |     1
+   6036 | Wei Wang  | WISE Workshops                                                                  |     1
+   4040 | Wei Liu   | ICCCN                                                                           |     6
+   6036 | Wei Wang  | JCIS                                                                            |     1
+   4040 | Wei Liu   | BCS International IT Conferenc                                                  |     1
+  21694 | Yan Zhang | ECRTS                                                                           |     1
+   4040 | Wei Liu   | ICMLC                                                                           |     2
+   4040 | Wei Liu   | Image Vision Comput.                                                            |     1
+   4040 | Wei Liu   | ICIP (2)                                                                        |     1
+  21694 | Yan Zhang | ACM Trans. Comput. Log.                                                         |     2
+   4040 | Wei Liu   | CSNDSP                                                                          |     2
+   6036 | Wei Wang  | DFRWS                                                                           |     1
+   4040 | Wei Liu   | ADMA (2)                                                                        |     2
+   4040 | Wei Liu   | JSW                                                                             |     3
+   4040 | Wei Liu   | SecureComm                                                                      |     1
+   6036 | Wei Wang  | ACM Trans. Inf. Syst. Secur.                                                    |     1
+   6036 | Wei Wang  | WISM                                                                            |     1
+  21694 | Yan Zhang | CCL                                                                             |     1
+   6036 | Wei Wang  | WSCG                                                                            |     1
+   6036 | Wei Wang  | SIGMOD Conference                                                               |     2
+   6036 | Wei Wang  | IJBIS                                                                           |     1
+   4040 | Wei Liu   | IEEE Trans. Parallel Distrib. Syst.                                             |     1
+  21694 | Yan Zhang | Science in China Series F: Information Sciences                                 |     1
+   6036 | Wei Wang  | Knowl.-Based Syst.                                                              |     3
+   4040 | Wei Liu   | ICPADS                                                                          |     1
+   6036 | Wei Wang  | SCIENCE CHINA Information Sciences                                              |     8
+   6036 | Wei Wang  | Ars Comb.                                                                       |     3
+   6036 | Wei Wang  | Int. J. Digital Earth                                                           |     1
+   6036 | Wei Wang  | TACAS                                                                           |     1
+  21694 | Yan Zhang | ICIAR                                                                           |     1
+   6036 | Wei Wang  | ICICIC (1)                                                                      |     1
+   6036 | Wei Wang  | J. Systems Science&Complexity                                                   |     5
+   4040 | Wei Liu   | VLSI Signal Processing                                                          |     1
+  21694 | Yan Zhang | ICC                                                                             |    34
+   4040 | Wei Liu   | ICICA (1)                                                                       |     1
+   6036 | Wei Wang  | PWC                                                                             |     1
+   6036 | Wei Wang  | Journal of Computational Chemistry                                              |     1
+   6036 | Wei Wang  | Big Data                                                                        |     1
+   6036 | Wei Wang  | IWQoS                                                                           |     1
+   6036 | Wei Wang  | Kybernetes                                                                      |     1
+  21694 | Yan Zhang | WAOA                                                                            |     1
+   4040 | Wei Liu   | Comp. Int. and Neurosc.                                                         |     1
+  21694 | Yan Zhang | Multimedia Tools Appl.                                                          |     4
+   4040 | Wei Liu   | MMSP                                                                            |     1
+   4040 | Wei Liu   | IGARSS                                                                          |     1
+   6036 | Wei Wang  | WCNC                                                                            |     4
+   4040 | Wei Liu   | ASAP                                                                            |     1
+   4040 | Wei Liu   | Neural Computing and Applications                                               |     1
+   6036 | Wei Wang  | HCI (23)                                                                        |     1
+   4040 | Wei Liu   | PACCS                                                                           |     1
+  21694 | Yan Zhang | INTERSPEECH                                                                     |     1
+   6036 | Wei Wang  | LISS (2)                                                                        |     1
+  21694 | Yan Zhang | The Journal of Supercomputing                                                   |     3
+   6036 | Wei Wang  | ICSME                                                                           |     1
+   4040 | Wei Liu   | ICPR                                                                            |     1
+   6036 | Wei Wang  | Arch. Math. Log.                                                                |     1
+   6036 | Wei Wang  | ACC                                                                             |     5
+   6036 | Wei Wang  | SMC                                                                             |    11
+  21694 | Yan Zhang | Security and Communication Networks                                             |     2
+   6036 | Wei Wang  | CCTA (3)                                                                        |     1
+   4040 | Wei Liu   | ICEE                                                                            |     1
+  21694 | Yan Zhang | Computer Methods and Programs in Biomedicine                                    |     1
+   4040 | Wei Liu   | International Conference on Internet Computing                                  |     2
+  21694 | Yan Zhang | ESA                                                                             |     1
+  21694 | Yan Zhang | ADMA                                                                            |     1
+   4040 | Wei Liu   | BMC Bioinformatics                                                              |     4
+   4040 | Wei Liu   | ChinaSIP                                                                        |     1
+   6036 | Wei Wang  | IEEE Trans. Mob. Comput.                                                        |     5
+  21694 | Yan Zhang | FSKD (2)                                                                        |     2
+   6036 | Wei Wang  | MSN                                                                             |     2
+   4040 | Wei Liu   | ISICA (2)                                                                       |     2
+   4040 | Wei Liu   | CSCWD                                                                           |     6
+   4040 | Wei Liu   | VINCI                                                                           |     1
+   4040 | Wei Liu   | WACV                                                                            |     1
+   4040 | Wei Liu   | SIGGRAPH New Tech Demos                                                         |     1
+   6036 | Wei Wang  | NETGAMES                                                                        |     1
+   4040 | Wei Liu   | Geoinformatics                                                                  |     4
+   6036 | Wei Wang  | IEEE Geosci. Remote Sensing Lett.                                               |     4
+  21694 | Yan Zhang | Inf. Process. Manage.                                                           |     3
+   4040 | Wei Liu   | PAKDD (2)                                                                       |     2
+  21694 | Yan Zhang | Graphics Interface                                                              |     1
+   4040 | Wei Liu   | BIBE                                                                            |     1
+   6036 | Wei Wang  | International Conference on Computational Science (1)                           |     1
+  21694 | Yan Zhang | INDIN                                                                           |     1
+  21694 | Yan Zhang | PerCom Workshops                                                                |     1
+   4040 | Wei Liu   | TACO                                                                            |     1
+  21694 | Yan Zhang | INCoS                                                                           |     1
+   6036 | Wei Wang  | ICPP                                                                            |     3
+   6036 | Wei Wang  | PAKDD Workshops                                                                 |     1
+   4040 | Wei Liu   | BIRTE (Informal Proceedings)                                                    |     1
+   6036 | Wei Wang  | SAM                                                                             |     1
+   6036 | Wei Wang  | WCRE                                                                            |     1
+   6036 | Wei Wang  | ACFIE                                                                           |     1
+   4040 | Wei Liu   | J. Electronic Imaging                                                           |     1
+   6036 | Wei Wang  | Journal of Biomedical Informatics                                               |     1
+  21694 | Yan Zhang | LCN                                                                             |     3
+   4040 | Wei Liu   | WEIS                                                                            |     1
+   6036 | Wei Wang  | CASoN                                                                           |     1
+   6036 | Wei Wang  | ICSOFT                                                                          |     1
+  21694 | Yan Zhang | IEEE Trans. Dependable Sec. Comput.                                             |     1
+   4040 | Wei Liu   | BMSB                                                                            |     1
+   6036 | Wei Wang  | ACL (1)                                                                         |     1
+   6036 | Wei Wang  | IEEE T. Geoscience and Remote Sensing                                           |     1
+   4040 | Wei Liu   | ITW                                                                             |     1
+   6036 | Wei Wang  | IAS                                                                             |     2
+  21694 | Yan Zhang | SEKE                                                                            |     1
+   6036 | Wei Wang  | IJIIT                                                                           |     1
+   6036 | Wei Wang  | SIAM J. Applied Dynamical Systems                                               |     1
+   6036 | Wei Wang  | Euro-Par                                                                        |     1
+  21694 | Yan Zhang | IEEE Transactions on Signal Processing                                          |     3
+   4040 | Wei Liu   | IEEE Trans. Knowl. Data Eng.                                                    |     1
+  21694 | Yan Zhang | DASC                                                                            |     1
+   4040 | Wei Liu   | DSAA                                                                            |     2
+   4040 | Wei Liu   | ACPR                                                                            |     1
+   6036 | Wei Wang  | Appl. Math. Lett.                                                               |     5
+   6036 | Wei Wang  | IDEAL                                                                           |     1
+  21694 | Yan Zhang | IJPRAI                                                                          |     4
+  21694 | Yan Zhang | Journal of Systems Architecture - Embedded Systems Design                       |     1
+  21694 | Yan Zhang | IEEE Systems Journal                                                            |     7
+   4040 | Wei Liu   | IJART                                                                           |     1
+   4040 | Wei Liu   | IET Communications                                                              |     3
+   6036 | Wei Wang  | J. UCS                                                                          |     1
+   4040 | Wei Liu   | ICPR (1)                                                                        |     1
+   6036 | Wei Wang  | VEE                                                                             |     1
+  21694 | Yan Zhang | Frontiers of Computer Science in China                                          |     1
+   4040 | Wei Liu   | JNW                                                                             |     1
+   6036 | Wei Wang  | IJDSN                                                                           |     4
+  21694 | Yan Zhang | ICIC (1)                                                                        |     2
+   6036 | Wei Wang  | Graphs and Combinatorics                                                        |     2
+   4040 | Wei Liu   | ADC                                                                             |     1
+   6036 | Wei Wang  | CISS                                                                            |     1
+   4040 | Wei Liu   | Signal, Image and Video Processing                                              |     1
+   4040 | Wei Liu   | Data Knowl. Eng.                                                                |     1
+   4040 | Wei Liu   | J. Multivariate Analysis                                                        |     2
+  21694 | Yan Zhang | ICIP                                                                            |     4
+   4040 | Wei Liu   | SIGIR                                                                           |     2
+   6036 | Wei Wang  | ICSR                                                                            |     2
+  21694 | Yan Zhang | IET Networks                                                                    |     1
+  21694 | Yan Zhang | HICSS                                                                           |     1
+   6036 | Wei Wang  | J. Intellig. Transport. Systems                                                 |     2
+   6036 | Wei Wang  | ISCAS (5)                                                                       |     1
+   4040 | Wei Liu   | ICASSP                                                                          |     9
+   4040 | Wei Liu   | Computer Communications                                                         |     2
+   6036 | Wei Wang  | JDIM                                                                            |     1
+   4040 | Wei Liu   | ISGT Europe                                                                     |     1
+  21694 | Yan Zhang | AICI (1)                                                                        |     1
+  21694 | Yan Zhang | J. Applied Logic                                                                |     1
+  21694 | Yan Zhang | IHI                                                                             |     3
+   6036 | Wei Wang  | Security and Management                                                         |     1
+   6036 | Wei Wang  | FSKD                                                                            |     7
+   4040 | Wei Liu   | ICONIP (3)                                                                      |     1
+   6036 | Wei Wang  | ISMIS                                                                           |     1
+   6036 | Wei Wang  | Signal Processing                                                               |     4
+   6036 | Wei Wang  | PDPTA                                                                           |     1
+   4040 | Wei Liu   | SNPD                                                                            |     1
+   6036 | Wei Wang  | IScIDE                                                                          |     3
+   6036 | Wei Wang  | CSSE (1)                                                                        |     1
+   6036 | Wei Wang  | Biological Cybernetics                                                          |     2
+   6036 | Wei Wang  | FAST                                                                            |     2
+   4040 | Wei Liu   | IEEE Transactions on Systems, Man, and Cybernetics, Part B                      |     1
+   4040 | Wei Liu   | CGIV                                                                            |     1
+   6036 | Wei Wang  | BIOCOMP                                                                         |     1
+   6036 | Wei Wang  | ESIAT (2)                                                                       |     1
+   6036 | Wei Wang  | IEEE Network                                                                    |     1
+   4040 | Wei Liu   | IEEE Transactions on Neural Networks                                            |     1
+  21694 | Yan Zhang | ICAC                                                                            |     3
+   6036 | Wei Wang  | The New Review of Hypermedia and Multimedia                                     |     1
+   4040 | Wei Liu   | ICME                                                                            |     5
+  21694 | Yan Zhang | IEA/AIE (1)                                                                     |     1
+  21694 | Yan Zhang | IEICE Transactions                                                              |     2
+   6036 | Wei Wang  | "CloudCom-Asia                                                                  |     1
+  21694 | Yan Zhang | CIKM                                                                            |     9
+   6036 | Wei Wang  | COMPSAC (1)                                                                     |     1
+   4040 | Wei Liu   | TRECVID                                                                         |     2
+  21694 | Yan Zhang | BIC-TA                                                                          |     1
+   4040 | Wei Liu   | ICSI (1)                                                                        |     1
+  21694 | Yan Zhang | ACML                                                                            |     1
+   6036 | Wei Wang  | ACIS-ICIS                                                                       |     1
+   6036 | Wei Wang  | CSIE (2)                                                                        |     1
+  21694 | Yan Zhang | ICIP (3)                                                                        |     1
+   6036 | Wei Wang  | WAIM                                                                            |     3
+  21694 | Yan Zhang | Theory Comput. Syst.                                                            |     1
+   4040 | Wei Liu   | HPCC/EUC                                                                        |     1
+   6036 | Wei Wang  | FORTE                                                                           |     1
+  21694 | Yan Zhang | CIT                                                                             |     9
+   4040 | Wei Liu   | Wireless Personal Communications                                                |     4
+   6036 | Wei Wang  | Intelligent Automation&Soft Computing                                           |     1
+  21694 | Yan Zhang | JCP                                                                             |     3
+  21694 | Yan Zhang | VSMM                                                                            |     1
+  21694 | Yan Zhang | Eng. Appl. of AI                                                                |     1
+   4040 | Wei Liu   | ESSDERC                                                                         |     1
+   6036 | Wei Wang  | GCC (1)                                                                         |     1
+   4040 | Wei Liu   | DSN                                                                             |     1
+   6036 | Wei Wang  | E2SC@SC                                                                         |     1
+  21694 | Yan Zhang | IJCCBS                                                                          |     1
+   4040 | Wei Liu   | Computers&Geosciences                                                           |     1
+  21694 | Yan Zhang | WGEC                                                                            |     2
+   4040 | Wei Liu   | IJCAI                                                                           |     5
+  21694 | Yan Zhang | ICNC                                                                            |     8
+  21694 | Yan Zhang | IEEE T. Fuzzy Systems                                                           |     1
+   4040 | Wei Liu   | IEEE VAST                                                                       |     1
+   6036 | Wei Wang  | PROLAMAT                                                                        |     1
+  21694 | Yan Zhang | I. J. Information Acquisition                                                   |     1
+   6036 | Wei Wang  | CLUSTER                                                                         |     1
+   6036 | Wei Wang  | COLING                                                                          |     1
+   6036 | Wei Wang  | ICMR                                                                            |     2
+   4040 | Wei Liu   | ISBI                                                                            |     3
+   6036 | Wei Wang  | ECML/PKDD (2)                                                                   |     1
+  21694 | Yan Zhang | IEEE T. Vehicular Technology                                                    |    19
+  21694 | Yan Zhang | Inf. Sci.                                                                       |     5
+  21694 | Yan Zhang | QRS                                                                             |     1
+   6036 | Wei Wang  | DCC                                                                             |     1
+   6036 | Wei Wang  | Peer-to-Peer Networking and Applications                                        |     1
+   6036 | Wei Wang  | Signal Processing Systems                                                       |     1
+   6036 | Wei Wang  | Grey Systems: T&A                                                               |     1
+   6036 | Wei Wang  | ICDE                                                                            |     1
+   6036 | Wei Wang  | Int. J. Communication Systems                                                   |     1
+   4040 | Wei Liu   | Soft Comput.                                                                    |     1
+   6036 | Wei Wang  | Information Fusion                                                              |     1
+  21694 | Yan Zhang | WKDD                                                                            |     1
+   4040 | Wei Liu   | ICEC                                                                            |     1
+  21694 | Yan Zhang | CDVE                                                                            |     1
+   4040 | Wei Liu   | CIVR                                                                            |     1
+   4040 | Wei Liu   | Int. J. Comput. Math.                                                           |     2
+   4040 | Wei Liu   | IEEE Trans. Aerospace and Electronic Systems                                    |     2
+   4040 | Wei Liu   | ICDM Workshops                                                                  |     1
+   6036 | Wei Wang  | Journal of Chemical Information and Modeling                                    |     2
+   6036 | Wei Wang  | IMSCCS                                                                          |     1
+   4040 | Wei Liu   | ICEIS (1)                                                                       |     1
+  21694 | Yan Zhang | J. Comput. Sci. Technol.                                                        |     1
+   4040 | Wei Liu   | BCB                                                                             |     2
+   4040 | Wei Liu   | International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems     |     1
+   4040 | Wei Liu   | Computers in Entertainment                                                      |     1
+   6036 | Wei Wang  | ICCA                                                                            |     2
+   4040 | Wei Liu   | AINA (2)                                                                        |     1
+  21694 | Yan Zhang | IJCNN                                                                           |     2
+   4040 | Wei Liu   | IEEE Journal on Selected Areas in Communications                                |     4
+  21694 | Yan Zhang | GPGPU@PPoPP                                                                     |     1
+  21694 | Yan Zhang | JDCTA                                                                           |     1
+   4040 | Wei Liu   | ICPP Workshops                                                                  |     2
+   6036 | Wei Wang  | Web Intelligence                                                                |     2
+  21694 | Yan Zhang | FSKD (1)                                                                        |     2
+   4040 | Wei Liu   | ECCV (1)                                                                        |     1
+   6036 | Wei Wang  | ICMU                                                                            |     1
+   4040 | Wei Liu   | J. Intelligent Manufacturing                                                    |     2
+   6036 | Wei Wang  | ECMR                                                                            |     1
+  21694 | Yan Zhang | GRAPHITE                                                                        |     1
+   6036 | Wei Wang  | IEEE Trans. Biomed. Engineering                                                 |     2
+   4040 | Wei Liu   | Microprocessors and Microsystems - Embedded Hardware Design                     |     1
+   6036 | Wei Wang  | IEEE/ACM Trans. Netw.                                                           |     1
+   4040 | Wei Liu   | IEEE Trans. Automat. Contr.                                                     |     1
+   6036 | Wei Wang  | WiNTECH                                                                         |     1
+  21694 | Yan Zhang | WASA                                                                            |     1
+  21694 | Yan Zhang | CoRR                                                                            |    32
+   4040 | Wei Liu   | ICCAD                                                                           |     2
+  21694 | Yan Zhang | J. Applied Mathematics                                                          |     3
+   4040 | Wei Liu   | Ubicomp                                                                         |     1
+   6036 | Wei Wang  | Computers&Industrial Engineering                                                |     1
+   6036 | Wei Wang  | Industrial Management and Data Systems                                          |     1
+  21694 | Yan Zhang | IEEE Congress on Evolutionary Computation                                       |     3
+   6036 | Wei Wang  | MOBICOM                                                                         |     1
+  21694 | Yan Zhang | IIS                                                                             |     1
+  21694 | Yan Zhang | VISAPP (1)                                                                      |     1
+   4040 | Wei Liu   | CHI                                                                             |     1
+   6036 | Wei Wang  | Mathematical and Computer Modelling                                             |     3
+   4040 | Wei Liu   | IKE                                                                             |     1
+   4040 | Wei Liu   | SIGGRAPH Posters                                                                |     1
+   4040 | Wei Liu   | Applied Mathematics and Computation                                             |     3
+  21694 | Yan Zhang | IEEE J. Biomedical and Health Informatics                                       |     1
+  21694 | Yan Zhang | IEEE Communications Letters                                                     |    12
+   4040 | Wei Liu   | ICSDM                                                                           |     1
+   4040 | Wei Liu   | ADCS                                                                            |     1
+  21694 | Yan Zhang | TPLP                                                                            |     4
+   4040 | Wei Liu   | ASP-DAC                                                                         |     2
+   6036 | Wei Wang  | Database                                                                        |     1
+  21694 | Yan Zhang | IEEE/ACM Trans. Comput. Biology Bioinform.                                      |     1
+   6036 | Wei Wang  | IEEE Transactions on Wireless Communications                                    |     1
+   4040 | Wei Liu   | ISPA                                                                            |     1
+  21694 | Yan Zhang | ChinaGrid                                                                       |     2
+   4040 | Wei Liu   | WOWMOM                                                                          |     1
+  21694 | Yan Zhang | Inscrypt                                                                        |     1
+   6036 | Wei Wang  | IEEE SCC                                                                        |     1
+   4040 | Wei Liu   | Australian Joint Conference on Artificial Intelligence                          |     1
+  21694 | Yan Zhang | ESEM                                                                            |     1
+   4040 | Wei Liu   | QSHINE                                                                          |     1
+  21694 | Yan Zhang | ISCSCT (2)                                                                      |     1
+   6036 | Wei Wang  | Expert Syst. Appl.                                                              |     1
+   6036 | Wei Wang  | ISDA                                                                            |     1
+  21694 | Yan Zhang | J. Cognitive Neuroscience                                                       |     2
+   4040 | Wei Liu   | WPMC                                                                            |     1
+  21694 | Yan Zhang | IJWMIP                                                                          |     1
+   4040 | Wei Liu   | APWeb                                                                           |     4
+   4040 | Wei Liu   | ICIC (2)                                                                        |     2
+   4040 | Wei Liu   | TRIDENTCOM                                                                      |     1
+  21694 | Yan Zhang | J. Computational Applied Mathematics                                            |     1
+   4040 | Wei Liu   | ICCSA (2)                                                                       |     2
+  21694 | Yan Zhang | Electr. Notes Theor. Comput. Sci.                                               |     1
+  21694 | Yan Zhang | IEEE Transactions on Information Forensics and Security                         |     2
+   6036 | Wei Wang  | ICEBE                                                                           |     2
+   4040 | Wei Liu   | Cognitive Computation                                                           |     1
+   4040 | Wei Liu   | UbiComp                                                                         |     1
+  21694 | Yan Zhang | WHICEB                                                                          |     1
+  21694 | Yan Zhang | AI Commun.                                                                      |     1
+   6036 | Wei Wang  | TAL                                                                             |     1
+   6036 | Wei Wang  | CIS                                                                             |    13
+   4040 | Wei Liu   | ACM Multimedia                                                                  |     4
+   4040 | Wei Liu   | IROS                                                                            |     2
+  21694 | Yan Zhang | Australasian Conference on Artificial Intelligence                              |     2
+  21694 | Yan Zhang | I. J. Bifurcation and Chaos                                                     |     2
+   6036 | Wei Wang  | ACM Trans. Database Syst.                                                       |     1
+   4040 | Wei Liu   | IJAOSE                                                                          |     2
+   4040 | Wei Liu   | CCTA (1)                                                                        |     1
+  21694 | Yan Zhang | SWAT                                                                            |     1
+   6036 | Wei Wang  | CSoNet                                                                          |     1
+  21694 | Yan Zhang | ICIP (1)                                                                        |     1
+   4040 | Wei Liu   | ITQM                                                                            |     5
+   6036 | Wei Wang  | Int. J. Control                                                                 |     1
+   4040 | Wei Liu   | Telecommunication Systems                                                       |     2
+   6036 | Wei Wang  | MobiHoc                                                                         |     1
+   6036 | Wei Wang  | Electr. J. Comb.                                                                |     1
+   4040 | Wei Liu   | MASCOTS                                                                         |     1
+   4040 | Wei Liu   | NPC                                                                             |     1
+   4040 | Wei Liu   | Intelligent Vehicles Symposium                                                  |     7
+   6036 | Wei Wang  | BMEI (2)                                                                        |     1
+   6036 | Wei Wang  | Computers&OR                                                                    |     1
+  21694 | Yan Zhang | IEEE Trans. Industrial Informatics                                              |     2
+   6036 | Wei Wang  | PIMRC                                                                           |     3
+   6036 | Wei Wang  | TrustCom/ISPA/IUCC                                                              |     2
+   6036 | Wei Wang  | IEEE Transactions on Industrial Electronics                                     |     5
+   6036 | Wei Wang  | EURASIP J. Adv. Sig. Proc.                                                      |     2
+   4040 | Wei Liu   | MICCAI (3)                                                                      |     2
+   6036 | Wei Wang  | KSEM                                                                            |     1
+   4040 | Wei Liu   | ICIP (5)                                                                        |     1
+  21694 | Yan Zhang | ISCID (1)                                                                       |     1
+   4040 | Wei Liu   | Digital Signal Processing                                                       |     3
+  21694 | Yan Zhang | ICIC (3)                                                                        |     2
+  21694 | Yan Zhang | AVBPA                                                                           |     1
+   6036 | Wei Wang  | IOT                                                                             |     2
+   6036 | Wei Wang  | ICRA                                                                            |     3
+   6036 | Wei Wang  | ICMI                                                                            |     1
+   6036 | Wei Wang  | VISAPP (2)                                                                      |     1
+   6036 | Wei Wang  | IEEE Communications Magazine                                                    |     4
+   6036 | Wei Wang  | EIAT/IETA                                                                       |     1
+   6036 | Wei Wang  | ISCC                                                                            |     1
+   6036 | Wei Wang  | PDCAT                                                                           |     1
+   4040 | Wei Liu   | ICIG                                                                            |     1
+  21694 | Yan Zhang | CSEE (5)                                                                        |     1
+   6036 | Wei Wang  | CEEMAS                                                                          |     1
+  21694 | Yan Zhang | Journal of Mathematical Imaging and Vision                                      |     1
+  21694 | Yan Zhang | RSCTC                                                                           |     1
+  21694 | Yan Zhang | BHI                                                                             |     1
+  21694 | Yan Zhang | DSP                                                                             |     1
+  21694 | Yan Zhang | ICA3PP (4)                                                                      |     1
+   6036 | Wei Wang  | IPMU                                                                            |     1
+  21694 | Yan Zhang | Bioinformatics                                                                  |     6
+  21694 | Yan Zhang | ISC                                                                             |     2
+   4040 | Wei Liu   | PRICAI                                                                          |     3
+   4040 | Wei Liu   | ISIT                                                                            |     2
+   6036 | Wei Wang  | IEEE J. Emerg. Sel. Topics Circuits Syst.                                       |     1
+  21694 | Yan Zhang | ICC Workshops                                                                   |     2
+   6036 | Wei Wang  | J. Sensors                                                                      |     1
+   6036 | Wei Wang  | Wireless Networks                                                               |     2
+   4040 | Wei Liu   | PAKDD (1)                                                                       |     4
+   6036 | Wei Wang  | Industrial Robot                                                                |     4
+   4040 | Wei Liu   | MMM                                                                             |     1
+   6036 | Wei Wang  | URAI                                                                            |     1
+   6036 | Wei Wang  | CDC                                                                             |     6
+  21694 | Yan Zhang | ICNC (6)                                                                        |     1
+   4040 | Wei Liu   | HPCA                                                                            |     1
+   4040 | Wei Liu   | DASFAA (1)                                                                      |     1
+   6036 | Wei Wang  | IEEE Trans. Med. Imaging                                                        |     2
+  21694 | Yan Zhang | BIBM                                                                            |     1
+   4040 | Wei Liu   | J. Digital Imaging                                                              |     1
+   4040 | Wei Liu   | MCO                                                                             |     1
+   6036 | Wei Wang  | SYSTOR                                                                          |     1
+  21694 | Yan Zhang | JASIST                                                                          |     7
+   6036 | Wei Wang  | Ann. Pure Appl. Logic                                                           |     2
+   4040 | Wei Liu   | J. Comb. Optim.                                                                 |     1
+   6036 | Wei Wang  | LSMS/ICSEE                                                                      |     2
+   6036 | Wei Wang  | IEEE T. Cybernetics                                                             |     1
+   4040 | Wei Liu   | Studia Logica                                                                   |     1
+  21694 | Yan Zhang | SIGCSE                                                                          |     1
+   6036 | Wei Wang  | ICMLC                                                                           |     2
+  21694 | Yan Zhang | Int. J. Hum.-Comput. Stud.                                                      |     1
+   6036 | Wei Wang  | Comp. Opt. and Appl.                                                            |     1
+  21694 | Yan Zhang | ISGT                                                                            |     1
+  21694 | Yan Zhang | ICSI (2)                                                                        |     1
+   4040 | Wei Liu   | UbiComp (Adjunct Publication)                                                   |     1
+  21694 | Yan Zhang | CyberC                                                                          |     1
+   4040 | Wei Liu   | J. Intell. Inf. Syst.                                                           |     1
+  21694 | Yan Zhang | IMIS                                                                            |     1
+   6036 | Wei Wang  | ICCCN                                                                           |     3
+   4040 | Wei Liu   | DATE                                                                            |     2
+   6036 | Wei Wang  | IEEE Trans. Parallel Distrib. Syst.                                             |     4
+   4040 | Wei Liu   | Proceedings of the IEEE                                                         |     3
+   6036 | Wei Wang  | Control and Intelligent Systems                                                 |     1
+   6036 | Wei Wang  | ICMCS, Vol. 2                                                                   |     1
+   4040 | Wei Liu   | WISM                                                                            |     1
+   6036 | Wei Wang  | PACIIA (2)                                                                      |     1
+   6036 | Wei Wang  | IEEE Computer                                                                   |     1
+   6036 | Wei Wang  | VLDB J.                                                                         |     2
+   6036 | Wei Wang  | WOCC                                                                            |     1
+  21694 | Yan Zhang | IEEE Transactions on Information Theory                                         |     1
+  21694 | Yan Zhang | APSCC                                                                           |     1
+   6036 | Wei Wang  | JSW                                                                             |     4
+  21694 | Yan Zhang | FSKD (4)                                                                        |     2
+  21694 | Yan Zhang | ICNC (3)                                                                        |     1
+   6036 | Wei Wang  | ADMA (2)                                                                        |     1
+   4040 | Wei Liu   | International Conference on Computational Science (2)                           |     1
+   4040 | Wei Liu   | EUSIPCO                                                                         |     9
+   4040 | Wei Liu   | ICAL                                                                            |     1
+  21694 | Yan Zhang | HSB                                                                             |     1
+   6036 | Wei Wang  | SCAM                                                                            |     1
+   4040 | Wei Liu   | J. Systems Science&Complexity                                                   |     1
+   4040 | Wei Liu   | MICRO                                                                           |     3
+   4040 | Wei Liu   | SCIENCE CHINA Information Sciences                                              |     2
+   6036 | Wei Wang  | IWSC                                                                            |     1
+  21694 | Yan Zhang | NEMS                                                                            |     1
+   6036 | Wei Wang  | ICPADS                                                                          |     1
+   4040 | Wei Liu   | Knowl.-Based Syst.                                                              |     2
+  21694 | Yan Zhang | ECMDA-FA                                                                        |     1
+   6036 | Wei Wang  | SIAM Journal of Applied Mathematics                                             |     1
+   4040 | Wei Liu   | HCI (14)                                                                        |     1
+   4040 | Wei Liu   | Computer Networks                                                               |     2
+  21694 | Yan Zhang | IEEE Trans. Computers                                                           |     2
+   6036 | Wei Wang  | Comp. Int. and Neurosc.                                                         |     5
+  21694 | Yan Zhang | Computers&Electrical Engineering                                                |     2
+   4040 | Wei Liu   | Kybernetes                                                                      |     1
+   4040 | Wei Liu   | WCNC                                                                            |    10
+   6036 | Wei Wang  | ASAP                                                                            |     1
+   6036 | Wei Wang  | IGARSS                                                                          |    13
+   6036 | Wei Wang  | MMSP                                                                            |     1
+  21694 | Yan Zhang | D-Lib Magazine                                                                  |     1
+  21694 | Yan Zhang | ICARCV                                                                          |     2
+   4040 | Wei Liu   | JCM                                                                             |     3
+   4040 | Wei Liu   | ECCV (3)                                                                        |     1
+  21694 | Yan Zhang | HCI (20)                                                                        |     1
+  21694 | Yan Zhang | Computers&Mathematics with Applications                                         |     2
+   4040 | Wei Liu   | Math. Meth. of OR                                                               |     1
+   4040 | Wei Liu   | Journal of Computational Chemistry                                              |     1
+  21694 | Yan Zhang | Entropy                                                                         |     1
+   4040 | Wei Liu   | Computational Statistics&Data Analysis                                          |     7
+   4040 | Wei Liu   | SMC                                                                             |     2
+  21694 | Yan Zhang | ISWCS                                                                           |     1
+   6036 | Wei Wang  | ICPR                                                                            |     5
+   6036 | Wei Wang  | ICEE                                                                            |     2
+   4040 | Wei Liu   | IJWIN                                                                           |     1
+  21694 | Yan Zhang | IWCMC                                                                           |    11
+   6036 | Wei Wang  | Neural Computing and Applications                                               |     2
+   6036 | Wei Wang  | PACCS                                                                           |     1
+   6036 | Wei Wang  | J. Bioinformatics and Computational Biology                                     |     1
+  21694 | Yan Zhang | APWeb/WAIM Workshops                                                            |     1
+   6036 | Wei Wang  | IEEE Trans. Contr. Sys. Techn.                                                  |     1
+   4040 | Wei Liu   | ITCC (2)                                                                        |     1
+  21694 | Yan Zhang | Comp. in Bio. and Med.                                                          |     2
+  21694 | Yan Zhang | ICFEM                                                                           |     1
+  21694 | Yan Zhang | WCNIS                                                                           |     2
+   6036 | Wei Wang  | CSCWD                                                                           |    10
+   6036 | Wei Wang  | GCC Workshops                                                                   |     1
+   4040 | Wei Liu   | Data Science Journal                                                            |     2
+   4040 | Wei Liu   | IEEE Trans. Mob. Comput.                                                        |     2
+   4040 | Wei Liu   | MSN                                                                             |     1
+   6036 | Wei Wang  | ISCAS (6)                                                                       |     1
+   6036 | Wei Wang  | WACV                                                                            |     2
+  21694 | Yan Zhang | CloudCom                                                                        |     1
+   6036 | Wei Wang  | BMC Bioinformatics                                                              |     2
+   4040 | Wei Liu   | IEEE Trans. Vis. Comput. Graph.                                                 |     1
+   4040 | Wei Liu   | KDD Workshop on Knowledge Discovery from Sensor Data                            |     1
+  21694 | Yan Zhang | PATMOS                                                                          |     1
+   6036 | Wei Wang  | ChinaSIP                                                                        |     2
+  21694 | Yan Zhang | CSEE&T                                                                          |     1
+   6036 | Wei Wang  | Advanced Robotics                                                               |     1
+   4040 | Wei Liu   | ISAAC                                                                           |     1
+   4040 | Wei Liu   | IEEE Wireless Commun. Letters                                                   |     1
+  21694 | Yan Zhang | AAAI                                                                            |     9
+   6036 | Wei Wang  | TASE                                                                            |     2
+   6036 | Wei Wang  | IWDW                                                                            |     1
+   6036 | Wei Wang  | TACO                                                                            |     1
+   4040 | Wei Liu   | e-Science                                                                       |     1
+   6036 | Wei Wang  | CSEE (4)                                                                        |     1
+   6036 | Wei Wang  | Geoinformatics                                                                  |     1
+   4040 | Wei Liu   | IEEE Geosci. Remote Sensing Lett.                                               |     2
+   6036 | Wei Wang  | ECEASST                                                                         |     1
+   6036 | Wei Wang  | PAKDD (2)                                                                       |     1
+  21694 | Yan Zhang | ACL (2)                                                                         |     1
+  21694 | Yan Zhang | ISCAS                                                                           |     2
+   4040 | Wei Liu   | NETGAMES                                                                        |     1
+   4040 | Wei Liu   | Journal of Biomedical Informatics                                               |     3
+  21694 | Yan Zhang | GreenCom/iThings/CPScom                                                         |     1
+  21694 | Yan Zhang | ICASSP (5)                                                                      |     1
+   6036 | Wei Wang  | MIAR                                                                            |     1
+  21694 | Yan Zhang | ICDM                                                                            |     2
+  21694 | Yan Zhang | COMPSAC (2)                                                                     |     1
+  21694 | Yan Zhang | RSKT                                                                            |     1
+   4040 | Wei Liu   | ISPE CE                                                                         |     1
+  21694 | Yan Zhang | BMC Systems Biology                                                             |     5
+  21694 | Yan Zhang | Computers&Chemical Engineering                                                  |     3
+   6036 | Wei Wang  | FCST                                                                            |     2
+   4040 | Wei Liu   | Journal of Circuits, Systems, and Computers                                     |     1
+   6036 | Wei Wang  | TAC                                                                             |     1
+   6036 | Wei Wang  | GECCO                                                                           |     2
+   4040 | Wei Liu   | ACCV (4)                                                                        |     1
+   4040 | Wei Liu   | Parallel and Distributed Computing and Networks                                 |     1
+   6036 | Wei Wang  | J. Symb. Log.                                                                   |     3
+  21694 | Yan Zhang | Pattern Recognition Letters                                                     |     1
+  21694 | Yan Zhang | CCPR                                                                            |     1
+   6036 | Wei Wang  | ISNN (2)                                                                        |     5
+   4040 | Wei Liu   | IEEE T. Geoscience and Remote Sensing                                           |     1
+  21694 | Yan Zhang | J. Sci. Comput.                                                                 |     2
+   4040 | Wei Liu   | Nucleic Acids Research                                                          |     4
+   4040 | Wei Liu   | IRI                                                                             |     1
+   6036 | Wei Wang  | MEMOCODE                                                                        |     1
+   6036 | Wei Wang  | JNW                                                                             |     7
+   6036 | Wei Wang  | Computer Aided Geometric Design                                                 |     1
+   6036 | Wei Wang  | IET Communications                                                              |     1
+   6036 | Wei Wang  | ACPR                                                                            |     1
+  21694 | Yan Zhang | ICDMA                                                                           |     2
+  21694 | Yan Zhang | Physical Communication                                                          |     1
+  21694 | Yan Zhang | Eurographics (Short Papers)                                                     |     2
+   6036 | Wei Wang  | Signal, Image and Video Processing                                              |     1
+  21694 | Yan Zhang | EAI Endorsed Trans. Energy Web                                                  |     1
+  21694 | Yan Zhang | DBTA                                                                            |     1
+   6036 | Wei Wang  | SIGIR                                                                           |     1
+  21694 | Yan Zhang | Journal of Computer Research and Development                                    |     1
+   4040 | Wei Liu   | J. Solid-State Circuits                                                         |     1
+   4040 | Wei Liu   | IJDSN                                                                           |     3
+   4040 | Wei Liu   | ACM TIST                                                                        |     1
+   4040 | Wei Liu   | CISS                                                                            |     2
+  21694 | Yan Zhang | ROBIO                                                                           |     4
+  21694 | Yan Zhang | DAC                                                                             |     2
+  21694 | Yan Zhang | AICI                                                                            |     1
+   4040 | Wei Liu   | FSKD                                                                            |     4
+  21694 | Yan Zhang | CAR                                                                             |     1
+  21694 | Yan Zhang | Fundam. Inform.                                                                 |     2
+  21694 | Yan Zhang | CCECE                                                                           |     2
+   4040 | Wei Liu   | IEEE Intell. Transport. Syst. Mag.                                              |     1
+   4040 | Wei Liu   | Interactions                                                                    |     1
+  21694 | Yan Zhang | J. Electrical and Computer Engineering                                          |     1
+   4040 | Wei Liu   | MOBICOM-CoRoNet                                                                 |     1
+  21694 | Yan Zhang | IEEE Trans. Circuits Syst. Video Techn.                                         |     1
+   6036 | Wei Wang  | ICASSP                                                                          |     5
+   6036 | Wei Wang  | Int. J. Intell. Syst.                                                           |     1
+   4040 | Wei Liu   | ATAL                                                                            |     1
+  21694 | Yan Zhang | Australian Conference on Artificial Intelligence                                |     5
+   4040 | Wei Liu   | Virtual Reality                                                                 |     1
+   6036 | Wei Wang  | Computer Communications                                                         |     1
+   4040 | Wei Liu   | JDIM                                                                            |     1
+   6036 | Wei Wang  | EURASIP J. Audio, Speech and Music Processing                                   |     1
+  21694 | Yan Zhang | KDIR                                                                            |     1
+   4040 | Wei Liu   | SCVT                                                                            |     1
+  21694 | Yan Zhang | ATVA                                                                            |     1
+   4040 | Wei Liu   | IJMSO                                                                           |     1
+   6036 | Wei Wang  | GIS                                                                             |     1
+   4040 | Wei Liu   | Signal Processing                                                               |    20
+   4040 | Wei Liu   | Advances in Computer Entertainment Technology                                   |     3
+   4040 | Wei Liu   | PDPTA                                                                           |     1
+   4040 | Wei Liu   | WISM (3)                                                                        |     1
+  21694 | Yan Zhang | ICALT                                                                           |     1
+   6036 | Wei Wang  | IEEE T. Instrumentation and Measurement                                         |     4
+   6036 | Wei Wang  | IEEE Transactions on Systems, Man, and Cybernetics, Part B                      |     1
+   4040 | Wei Liu   | IEEE Trans. on CAD of Integrated Circuits and Systems                           |     1
+   6036 | Wei Wang  | ICSI (1)                                                                        |     1
+   6036 | Wei Wang  | CSSE (4)                                                                        |     1
+   6036 | Wei Wang  | GREC                                                                            |     1
+   6036 | Wei Wang  | IEEE Trans. Emerging Topics Comput.                                             |     1
+  21694 | Yan Zhang | WAIM Workshops                                                                  |     2
+   4040 | Wei Liu   | ICECS                                                                           |     1
+   6036 | Wei Wang  | ICME                                                                            |     4
+   6036 | Wei Wang  | Advanced Engineering Informatics                                                |     1
+   4040 | Wei Liu   | MLMI                                                                            |     1
+  21694 | Yan Zhang | SAC                                                                             |     2
+  21694 | Yan Zhang | ASIACCS                                                                         |     2
+  21694 | Yan Zhang | IEEE Internet of Things Journal                                                 |     1
+  21694 | Yan Zhang | MASS                                                                            |     2
+   6036 | Wei Wang  | Wireless Personal Communications                                                |     1
+  21694 | Yan Zhang | Ad Hoc Networks                                                                 |     1
+  21694 | Yan Zhang | ICDCS Workshop on Internet                                                      |     1
+   6036 | Wei Wang  | ACSAC                                                                           |     2
+   4040 | Wei Liu   | WAIM                                                                            |     4
+   4040 | Wei Liu   | CNSR                                                                            |     1
+  21694 | Yan Zhang | Inf. Syst.                                                                      |     1
+  21694 | Yan Zhang | LPNMR                                                                           |     4
+   6036 | Wei Wang  | IJDLS                                                                           |     2
+  21694 | Yan Zhang | EMNLP                                                                           |     3
+   4040 | Wei Liu   | ACCV (1)                                                                        |     1
+  21694 | Yan Zhang | SeGAH                                                                           |     1
+  21694 | Yan Zhang | IEA/AIE                                                                         |     3
+  21694 | Yan Zhang | VTC Spring                                                                      |     7
+  21694 | Yan Zhang | ICNC (2)                                                                        |     2
+  21694 | Yan Zhang | Int. J. Biomedical Imaging                                                      |     1
+  21694 | Yan Zhang | BODYNETS                                                                        |     1
+   6036 | Wei Wang  | CORIA                                                                           |     1
+   4040 | Wei Liu   | WISE                                                                            |     2
+  21694 | Yan Zhang | AAAI/IAAI, Vol. 1                                                               |     1
+   4040 | Wei Liu   | CW                                                                              |     1
+   6036 | Wei Wang  | ISCID (2)                                                                       |     1
+   6036 | Wei Wang  | CODES+ISSS                                                                      |     1
+  21694 | Yan Zhang | WCSP                                                                            |     2
+   4040 | Wei Liu   | HCI (11)                                                                        |     1
+   4040 | Wei Liu   | IEEE/ACM Transactions on Audio, Speech&Language Processing                      |     2
+   6036 | Wei Wang  | WTS                                                                             |     1
+   6036 | Wei Wang  | ISBI                                                                            |     3
+   4040 | Wei Liu   | ECML/PKDD (2)                                                                   |     1
+   4040 | Wei Liu   | IWACA                                                                           |     1
+  21694 | Yan Zhang | Photonic Network Communications                                                 |     1
+   4040 | Wei Liu   | Signal Processing Systems                                                       |     1
+   4040 | Wei Liu   | ACM Great Lakes Symposium on VLSI                                               |     1
+   4040 | Wei Liu   | DCC                                                                             |     1
+  21694 | Yan Zhang | CHI PLAY                                                                        |     1
+  21694 | Yan Zhang | NSS                                                                             |     1
+  21694 | Yan Zhang | Int. J. Inf. Sec.                                                               |     3
+  21694 | Yan Zhang | Three-Dimensional Image Capture and Applications                                |     1
+   4040 | Wei Liu   | COLING                                                                          |     1
+  21694 | Yan Zhang | APJOR                                                                           |     1
+   6036 | Wei Wang  | ISIC                                                                            |     1
+  21694 | Yan Zhang | AIRS                                                                            |     4
+   6036 | Wei Wang  | ISIA                                                                            |     1
+   6036 | Wei Wang  | ISNN (3)                                                                        |     2
+   6036 | Wei Wang  | Computational Intelligence                                                      |     1
+   4040 | Wei Liu   | HCI (25)                                                                        |     1
+   6036 | Wei Wang  | Soft Comput.                                                                    |     2
+  21694 | Yan Zhang | TVS                                                                             |     1
+   4040 | Wei Liu   | Int. J. Communication Systems                                                   |     1
+   6036 | Wei Wang  | ICDM Workshops                                                                  |     1
+  21694 | Yan Zhang | ICTAI                                                                           |     4
+   6036 | Wei Wang  | WWW (Companion Volume)                                                          |     2
+   6036 | Wei Wang  | Int. J. Comput. Math.                                                           |     1
+  21694 | Yan Zhang | Adv. Numerical Analysis                                                         |     1
+   4040 | Wei Liu   | CIT/IUCC/DASC/PICom                                                             |     2
+  21694 | Yan Zhang | CHI Extended Abstracts                                                          |     1
+   4040 | Wei Liu   | IIH-MSP                                                                         |     2
+  21694 | Yan Zhang | SODA                                                                            |     1
+   4040 | Wei Liu   | ICCA                                                                            |     1
+   6036 | Wei Wang  | IEEE Journal on Selected Areas in Communications                                |     1
+  21694 | Yan Zhang | Wireless Sensor Network                                                         |     1
+  21694 | Yan Zhang | EURASIP J. Wireless Comm. and Networking                                        |     4
+   6036 | Wei Wang  | Appl. Intell.                                                                   |     1
+   6036 | Wei Wang  | BCB                                                                             |     3
+  21694 | Yan Zhang | CCTA (2)                                                                        |     1
+   6036 | Wei Wang  | IEEE Trans. Automat. Contr.                                                     |     2
+   4040 | Wei Liu   | GCC (2)                                                                         |     1
+   4040 | Wei Liu   | WiNTECH                                                                         |     1
+   4040 | Wei Liu   | IEEE T. Systems, Man, and Cybernetics: Systems                                  |     1
+   6036 | Wei Wang  | ICA3PP (2)                                                                      |     2
+   4040 | Wei Liu   | Web Intelligence                                                                |     1
+   6036 | Wei Wang  | IWBF                                                                            |     1
+  21694 | Yan Zhang | AINA                                                                            |     1
+  21694 | Yan Zhang | ICITA (2)                                                                       |     1
+  21694 | Yan Zhang | IEEE Communications Surveys and Tutorials                                       |     3
+  21694 | Yan Zhang | CLSW                                                                            |     1
+   4040 | Wei Liu   | ICON                                                                            |     3
+   4040 | Wei Liu   | ISSNIP                                                                          |     1
+   4040 | Wei Liu   | CCTA                                                                            |     2
+   6036 | Wei Wang  | Optimization Methods and Software                                               |     1
+   6036 | Wei Wang  | CIS (1)                                                                         |     2
+  21694 | Yan Zhang | EDOC                                                                            |     1
+   6036 | Wei Wang  | CSO                                                                             |     2
+   6036 | Wei Wang  | IEEE Trans. Pattern Anal. Mach. Intell.                                         |     2
+   4040 | Wei Liu   | PCM                                                                             |     3
+   4040 | Wei Liu   | MOBICOM                                                                         |     1
+   6036 | Wei Wang  | CSIE (4)                                                                        |     2
+  21694 | Yan Zhang | VTC Fall                                                                        |     6
+   6036 | Wei Wang  | IEEE Trans. Smart Grid                                                          |     1
+   6036 | Wei Wang  | DMSN                                                                            |     1
+   6036 | Wei Wang  | ICSDM                                                                           |     1
+   4040 | Wei Liu   | IEEE Transactions on Wireless Communications                                    |     1
+   4040 | Wei Liu   | Database                                                                        |     2
+   6036 | Wei Wang  | Comp.-Aided Civil and Infrastruct. Engineering                                  |     3
+   6036 | Wei Wang  | ERSA                                                                            |     1
+   4040 | Wei Liu   | Mathematical and Computer Modelling                                             |     2
+   4040 | Wei Liu   | FP7 FIRE/EULER                                                                  |     1
+  21694 | Yan Zhang | PLoS Computational Biology                                                      |     3
+   6036 | Wei Wang  | Applied Mathematics and Computation                                             |     4
+   4040 | Wei Liu   | Numerical Algorithms                                                            |     1
+   4040 | Wei Liu   | ECCV Workshop BioAW                                                             |     1
+  21694 | Yan Zhang | IET Communications                                                              |     1
+   4040 | Wei Liu   | ICASSP (2)                                                                      |     3
+  21694 | Yan Zhang | JNW                                                                             |     4
+  21694 | Yan Zhang | DSAA                                                                            |     1
+  21694 | Yan Zhang | DIFTS@FMCAD                                                                     |     1
+   6036 | Wei Wang  | CSS                                                                             |     1
+   6036 | Wei Wang  | IJWGS                                                                           |     1
+   6036 | Wei Wang  | Computers&Chemical Engineering                                                  |     3
+   4040 | Wei Liu   | IEEE Signal Process. Lett.                                                      |     7
+   6036 | Wei Wang  | CCPR                                                                            |     1
+   6036 | Wei Wang  | Pattern Recognition Letters                                                     |     2
+  21694 | Yan Zhang | ISLPED                                                                          |     1
+   6036 | Wei Wang  | GreenCom/iThings/CPScom                                                         |     1
+  21694 | Yan Zhang | ACISP                                                                           |     1
+  21694 | Yan Zhang | GLOBECOM Workshops                                                              |     1
+   6036 | Wei Wang  | ICDM                                                                            |     5
+  21694 | Yan Zhang | BigData Conference                                                              |     1
+   6036 | Wei Wang  | RSKT                                                                            |     1
+   4040 | Wei Liu   | ICYCS                                                                           |     1
+   4040 | Wei Liu   | CIT (1)                                                                         |     1
+  21694 | Yan Zhang | Ann. Math. Artif. Intell.                                                       |     2
+   6036 | Wei Wang  | AAAI                                                                            |     4
+   6036 | Wei Wang  | ISCAS                                                                           |     4
+   4040 | Wei Liu   | J. Sel. Topics Signal Processing                                                |     1
+   4040 | Wei Liu   | Autonomous Agents and Multi-Agent Systems                                       |     1
+   6036 | Wei Wang  | Int. J. Imaging Systems and Technology                                          |     1
+   4040 | Wei Liu   | BIC-TA                                                                          |     1
+  21694 | Yan Zhang | HASE                                                                            |     1
+  21694 | Yan Zhang | ICME                                                                            |     3
+   4040 | Wei Liu   | CIKM                                                                            |     6
+  21694 | Yan Zhang | APSEC                                                                           |     1
+  21694 | Yan Zhang | MobiQuitous                                                                     |     1
+   6036 | Wei Wang  | WImBI                                                                           |     1
+   6036 | Wei Wang  | CoNEXT                                                                          |     1
+   6036 | Wei Wang  | Integration                                                                     |     1
+  21694 | Yan Zhang | SRDS                                                                            |     1
+   6036 | Wei Wang  | TrustCom                                                                        |     2
+   4040 | Wei Liu   | IEICE Electronic Express                                                        |     5
+  21694 | Yan Zhang | IEEE T. Instrumentation and Measurement                                         |     4
+  21694 | Yan Zhang | GlobalSIP                                                                       |     1
+   4040 | Wei Liu   | IJRIS                                                                           |     1
+   6036 | Wei Wang  | IEEE Trans. Circuits Syst. Video Techn.                                         |     2
+  21694 | Yan Zhang | ICASSP                                                                          |     2
+   6036 | Wei Wang  | FUSION                                                                          |     2
+  21694 | Yan Zhang | Computer Communications                                                         |     9
+  21694 | Yan Zhang | PODC                                                                            |     1
+   6036 | Wei Wang  | Australian Conference on Artificial Intelligence                                |     1
+  21694 | Yan Zhang | KR                                                                              |     7
+   6036 | Wei Wang  | DBTA                                                                            |     4
+   6036 | Wei Wang  | iJOE                                                                            |     1
+   4040 | Wei Liu   | ICIP                                                                            |     7
+   4040 | Wei Liu   | PAKDD                                                                           |     1
+   6036 | Wei Wang  | ICDSC                                                                           |     1
+   6036 | Wei Wang  | ROBIO                                                                           |    20
+  21694 | Yan Zhang | ICEIS (1)                                                                       |     1
+   4040 | Wei Liu   | ITSSA                                                                           |     1
+  21694 | Yan Zhang | Computational Intelligence                                                      |     1
+   4040 | Wei Liu   | ICIAR (1)                                                                       |     1
+   6036 | Wei Wang  | IEEE Transactions on Robotics                                                   |     1
+   4040 | Wei Liu   | WKDD                                                                            |     2
+  21694 | Yan Zhang | ICEC                                                                            |     1
+   6036 | Wei Wang  | NTCIR                                                                           |     1
+  21694 | Yan Zhang | ISBI                                                                            |     1
+   4040 | Wei Liu   | IEEE T. Vehicular Technology                                                    |     6
+  21694 | Yan Zhang | ICDE Workshops                                                                  |     1
+   6036 | Wei Wang  | Eur. J. Comb.                                                                   |     1
+   4040 | Wei Liu   | IEEE Trans. VLSI Syst.                                                          |     1
+  21694 | Yan Zhang | Annales des Télécommunications                                                |     1
+   6036 | Wei Wang  | Photonic Network Communications                                                 |     2
+   6036 | Wei Wang  | DEXA (2)                                                                        |     1
+   6036 | Wei Wang  | VTC Spring                                                                      |     6
+   6036 | Wei Wang  | ICNC (2)                                                                        |     3
+   6036 | Wei Wang  | WCSP                                                                            |     3
+  21694 | Yan Zhang | ISCID (2)                                                                       |     1
+   6036 | Wei Wang  | IISWC                                                                           |     1
+  21694 | Yan Zhang | CODES+ISSS                                                                      |     1
+   6036 | Wei Wang  | TREC                                                                            |     2
+  21694 | Yan Zhang | Wireless Personal Communications                                                |     6
+   4040 | Wei Liu   | CIT                                                                             |     1
+   4040 | Wei Liu   | SiPS                                                                            |     2
+   4040 | Wei Liu   | JCP                                                                             |     8
+   6036 | Wei Wang  | FUZZ-IEEE                                                                       |     2
+   6036 | Wei Wang  | SCDM                                                                            |     1
+   4040 | Wei Liu   | IEEE Communications Letters                                                     |     2
+   6036 | Wei Wang  | VTC Fall                                                                        |     1
+   6036 | Wei Wang  | Simulation Modelling Practice and Theory                                        |     1
+  21694 | Yan Zhang | ASP-DAC                                                                         |     5
+   6036 | Wei Wang  | Connect. Sci.                                                                   |     1
+   4040 | Wei Liu   | IEEE/ACM Trans. Comput. Biology Bioinform.                                      |     1
+   6036 | Wei Wang  | CSO (1)                                                                         |     1
+   6036 | Wei Wang  | PLoS Computational Biology                                                      |     2
+   4040 | Wei Liu   | AusDM                                                                           |     4
+   4040 | Wei Liu   | ECCV (5)                                                                        |     1
+   4040 | Wei Liu   | J. Applied Mathematics                                                          |     4
+   4040 | Wei Liu   | IEEE Congress on Evolutionary Computation                                       |     1
+   4040 | Wei Liu   | IEEE T. Haptics                                                                 |     1
+  21694 | Yan Zhang | WoWMoM                                                                          |     1
+   4040 | Wei Liu   | IEEE Transactions on Image Processing                                           |     9
+   4040 | Wei Liu   | WSA                                                                             |     1
+   4040 | Wei Liu   | RAM                                                                             |     1
+   4040 | Wei Liu   | FSKD (1)                                                                        |     1
+   6036 | Wei Wang  | CHI Extended Abstracts                                                          |     1
+  21694 | Yan Zhang | KES (2)                                                                         |     2
+  21694 | Yan Zhang | ICDCS                                                                           |     1
+   6036 | Wei Wang  | ISIP                                                                            |     1
+   6036 | Wei Wang  | ISPEC                                                                           |     1
+   4040 | Wei Liu   | Machine Learning                                                                |     1
+   4040 | Wei Liu   | IFIP Congress Topical Sessions                                                  |     1
+  21694 | Yan Zhang | CAIP (1)                                                                        |     1
+   6036 | Wei Wang  | I. J. Bifurcation and Chaos                                                     |     1
+   4040 | Wei Liu   | GCC                                                                             |     2
+   4040 | Wei Liu   | OTM Workshops (1)                                                               |     1
+   4040 | Wei Liu   | GLOBECOM                                                                        |    12
+   4040 | Wei Liu   | ICITA (1)                                                                       |     1
+   4040 | Wei Liu   | ICWL                                                                            |     1
+   4040 | Wei Liu   | IEEE MultiMedia                                                                 |     1
+   6036 | Wei Wang  | VMCAI                                                                           |     1
+   4040 | Wei Liu   | SKG                                                                             |     4
+   6036 | Wei Wang  | IJCBPL                                                                          |     1
+   6036 | Wei Wang  | APSys                                                                           |     1
+   6036 | Wei Wang  | J. Computational Applied Mathematics                                            |     2
+   4040 | Wei Liu   | ICONIP (2)                                                                      |     1
+   4040 | Wei Liu   | KDD                                                                             |     6
+   6036 | Wei Wang  | Electr. Notes Theor. Comput. Sci.                                               |     1
+   4040 | Wei Liu   | LCPC                                                                            |     1
+   6036 | Wei Wang  | LANMAN                                                                          |     1
+  21694 | Yan Zhang | AINA Workshops (2)                                                              |     1
+  21694 | Yan Zhang | Computers&Graphics                                                              |     2
+  21694 | Yan Zhang | Expert Syst. Appl.                                                              |     1
+  21694 | Yan Zhang | CoNLL Shared Task                                                               |     1
+   4040 | Wei Liu   | MONET                                                                           |     1
+   4040 | Wei Liu   | INFOCOM                                                                         |     6
+  21694 | Yan Zhang | EURASIP J. Adv. Sig. Proc.                                                      |     1
+   6036 | Wei Wang  | ICIC (3)                                                                        |     2
+   4040 | Wei Liu   | MVA                                                                             |     4
+   6036 | Wei Wang  | ICB                                                                             |     1
+   6036 | Wei Wang  | SIGMOD Record                                                                   |     2
+   6036 | Wei Wang  | SHARK@ICSE                                                                      |     1
+   4040 | Wei Liu   | ALPIT                                                                           |     1
+   4040 | Wei Liu   | IJTHI                                                                           |     1
+   6036 | Wei Wang  | IEEE Trans. Industrial Informatics                                              |     1
+   6036 | Wei Wang  | J. Sensor Technology                                                            |     1
+  21694 | Yan Zhang | Computers&OR                                                                    |     1
+  21694 | Yan Zhang | TrustCom/ISPA/IUCC                                                              |     1
+  21694 | Yan Zhang | PIMRC                                                                           |    16
+  21694 | Yan Zhang | IEEE Trans. Parallel Distrib. Syst.                                             |     1
+   6036 | Wei Wang  | IEEE Transactions on Information Theory                                         |     1
+  21694 | Yan Zhang | SIN                                                                             |     2
+  21694 | Yan Zhang | ADMA (2)                                                                        |     2
+  21694 | Yan Zhang | JSW                                                                             |     4
+   4040 | Wei Liu   | DaWaK                                                                           |     1
+   6036 | Wei Wang  | Int. J. Hum.-Comput. Stud.                                                      |     1
+   4040 | Wei Liu   | Pattern Recognition                                                             |     1
+   6036 | Wei Wang  | ICPCA/SWS                                                                       |     3
+  21694 | Yan Zhang | Software Quality Journal                                                        |     1
+   6036 | Wei Wang  | IJMTM                                                                           |     1
+   6036 | Wei Wang  | CyberC                                                                          |     2
+   6036 | Wei Wang  | ICSI (2)                                                                        |     1
+   6036 | Wei Wang  | GIR                                                                             |     1
+  21694 | Yan Zhang | ADMA (1)                                                                        |     3
+   4040 | Wei Liu   | ICADL                                                                           |     1
+  21694 | Yan Zhang | Wireless Communications and Mobile Computing                                    |    13
+   6036 | Wei Wang  | Social Networks                                                                 |     1
+   4040 | Wei Liu   | LREC                                                                            |     2
+   4040 | Wei Liu   | IEEE Transactions on Communications                                             |     2
+   4040 | Wei Liu   | Automatica                                                                      |     1
+   6036 | Wei Wang  | ASONAM                                                                          |     1
+   6036 | Wei Wang  | ICS                                                                             |     1
+   4040 | Wei Liu   | APCHI                                                                           |     1
+   6036 | Wei Wang  | iThings/GreenCom/CPSCom                                                         |     1
+   6036 | Wei Wang  | Knowl. Inf. Syst.                                                               |     1
+   4040 | Wei Liu   | FGR                                                                             |     1
+   6036 | Wei Wang  | VNC                                                                             |     2
+   6036 | Wei Wang  | Bioinformatics                                                                  |     7
+  21694 | Yan Zhang | ICNC (1)                                                                        |     1
+   6036 | Wei Wang  | WIFS                                                                            |     1
+   4040 | Wei Liu   | Canadian Conference on AI                                                       |     1
+   4040 | Wei Liu   | PACIS                                                                           |     2
+  21694 | Yan Zhang | CDC                                                                             |     1
+   4040 | Wei Liu   | IUI                                                                             |     2
+  21694 | Yan Zhang | VINCI                                                                           |     1
+  21694 | Yan Zhang | ECBS                                                                            |     1
+   6036 | Wei Wang  | CIMCA/IAWTIC/ISE                                                                |     1
+   4040 | Wei Liu   | SIAM J. Numerical Analysis                                                      |     1
+  21694 | Yan Zhang | BMC Bioinformatics                                                              |     1
+   6036 | Wei Wang  | WETICE                                                                          |     1
+   6036 | Wei Wang  | SIAM J. Imaging Sciences                                                        |     1
+   6036 | Wei Wang  | ICNSC                                                                           |     1
+   6036 | Wei Wang  | ICNC (5)                                                                        |     1
+   6036 | Wei Wang  | Comp. Math. Methods in Medicine                                                 |     2
+   6036 | Wei Wang  | Computing in Science and Engineering                                            |     1
+  21694 | Yan Zhang | IGARSS                                                                          |     5
+  21694 | Yan Zhang | ASAP                                                                            |     1
+   4040 | Wei Liu   | ICC                                                                             |    18
+   6036 | Wei Wang  | Entropy                                                                         |     4
+   6036 | Wei Wang  | Computers&Mathematics with Applications                                         |     1
+   6036 | Wei Wang  | TBC                                                                             |     1
+   6036 | Wei Wang  | UIC/ATC                                                                         |     2
+  21694 | Yan Zhang | ICA3PP (1)                                                                      |     1
+   6036 | Wei Wang  | Networking                                                                      |     1
+   6036 | Wei Wang  | DASC                                                                            |     1
+   4040 | Wei Liu   | ICDMA                                                                           |     1
+   6036 | Wei Wang  | IJPRAI                                                                          |     2
+  21694 | Yan Zhang | AAMAS (1)                                                                       |     1
+  21694 | Yan Zhang | Nucleic Acids Research                                                          |     7
+   6036 | Wei Wang  | VCIP                                                                            |     1
+  21694 | Yan Zhang | J. UCS                                                                          |     3
+   4040 | Wei Liu   | Intell. Data Anal.                                                              |     1
+   4040 | Wei Liu   | J. Sci. Comput.                                                                 |     1
+   6036 | Wei Wang  | NAS                                                                             |     1
+   6036 | Wei Wang  | IJPEDS                                                                          |     1
+   4040 | Wei Liu   | APWCS                                                                           |     1
+   6036 | Wei Wang  | IEEE Transactions on Signal Processing                                          |     4
+   4040 | Wei Liu   | IPSN                                                                            |     1
+  21694 | Yan Zhang | IEEE Trans. Consumer Electronics                                                |     1
+   4040 | Wei Liu   | ICICA (2)                                                                       |     2
+  21694 | Yan Zhang | Journal of Biomedical Informatics                                               |     1
+  21694 | Yan Zhang | IEEE Geosci. Remote Sensing Lett.                                               |     5
+  21694 | Yan Zhang | SIGBED Review                                                                   |     1
+  21694 | Yan Zhang | International Conference on Computational Science (1)                           |     1
+   4040 | Wei Liu   | CSE                                                                             |     1
+   6036 | Wei Wang  | ICIRA (2)                                                                       |     2
+   4040 | Wei Liu   | SSPR/SPR                                                                        |     1
+   4040 | Wei Liu   | Conference on Designing Interactive Systems                                     |     1
+   6036 | Wei Wang  | IEICE Transactions                                                              |     7
+   4040 | Wei Liu   | GEC Summit                                                                      |     1
+   4040 | Wei Liu   | SAC                                                                             |     2
+  21694 | Yan Zhang | Algorithmica                                                                    |     1
+   4040 | Wei Liu   | IEEE T. Automation Science and Engineering                                      |     1
+  21694 | Yan Zhang | CSIE (2)                                                                        |     2
+  21694 | Yan Zhang | WISM (3)                                                                        |     1
+   4040 | Wei Liu   | ICWL Workshops                                                                  |     1
+  21694 | Yan Zhang | PRIMA                                                                           |     1
+   4040 | Wei Liu   | ISNN                                                                            |     1
+   4040 | Wei Liu   | J. Comput. Physics                                                              |     2
+   4040 | Wei Liu   | Comp. Med. Imag. and Graph.                                                     |     2
+   4040 | Wei Liu   | Enterprise IS                                                                   |     1
+  21694 | Yan Zhang | HIS                                                                             |     1
+   4040 | Wei Liu   | ICPR (4)                                                                        |     1
+  21694 | Yan Zhang | Security and Management                                                         |     1
+  21694 | Yan Zhang | Briefings in Bioinformatics                                                     |     1
+   6036 | Wei Wang  | ICIC (1)                                                                        |     5
+   6036 | Wei Wang  | CLOUD                                                                           |     1
+   4040 | Wei Liu   | DAC                                                                             |     1
+   4040 | Wei Liu   | AICI                                                                            |     3
+   6036 | Wei Wang  | Int. J. General Systems                                                         |     1
+  21694 | Yan Zhang | Int. J. Communication Systems                                                   |     3
+   4040 | Wei Liu   | ISDA (1)                                                                        |     2
+  21694 | Yan Zhang | Inf. Res.                                                                       |     3
+   4040 | Wei Liu   | ICT                                                                             |     3
+   4040 | Wei Liu   | IEEE Transactions on Multimedia                                                 |     3
+  21694 | Yan Zhang | SNPD (1)                                                                        |     1
+  21694 | Yan Zhang | COLING                                                                          |     1
+   6036 | Wei Wang  | I. J. Information Acquisition                                                   |     2
+   6036 | Wei Wang  | Inf. Sci.                                                                       |     4
+   6036 | Wei Wang  | Computers in Industry                                                           |     1
+   4040 | Wei Liu   | ICIRA (1)                                                                       |     1
+  21694 | Yan Zhang | ICMR                                                                            |     2
+  21694 | Yan Zhang | Signal Processing Systems                                                       |     1
+  21694 | Yan Zhang | ACM Great Lakes Symposium on VLSI                                               |     1
+  21694 | Yan Zhang | WISE                                                                            |     1
+   4040 | Wei Liu   | CAD/Graphics                                                                    |     1
+   6036 | Wei Wang  | ICNC                                                                            |     6
+   6036 | Wei Wang  | WGEC                                                                            |     2
+  21694 | Yan Zhang | Concurrency and Computation: Practice and Experience                            |     1
+   6036 | Wei Wang  | ICDAR                                                                           |     1
+   6036 | Wei Wang  | ICONS                                                                           |     3
+   6036 | Wei Wang  | PACIIA (1)                                                                      |     3
+   6036 | Wei Wang  | BMEI                                                                            |     5
+   6036 | Wei Wang  | SECON                                                                           |     3
+   4040 | Wei Liu   | MASS                                                                            |     1
+   6036 | Wei Wang  | ICDCS Workshops                                                                 |     1
+  21694 | Yan Zhang | Brain Informatics                                                               |     1
+   4040 | Wei Liu   | SIAM J. Control and Optimization                                                |     1
+  21694 | Yan Zhang | Mathematical and Computer Modelling                                             |     1
+   4040 | Wei Liu   | IET Information Security                                                        |     1
+   6036 | Wei Wang  | CoRR                                                                            |    23
+   4040 | Wei Liu   | CSCW                                                                            |     1
+   4040 | Wei Liu   | FODO                                                                            |     1
+   6036 | Wei Wang  | VISAPP (1)                                                                      |     1
+   6036 | Wei Wang  | SoCPaR                                                                          |     2
+  21694 | Yan Zhang | CCTA                                                                            |     2
+   6036 | Wei Wang  | SDM                                                                             |     1
+  21694 | Yan Zhang | J. Medical Systems                                                              |     2
+   4040 | Wei Liu   | The Visual Computer                                                             |     1
+   4040 | Wei Liu   | CCTA (2)                                                                        |     1
+   6036 | Wei Wang  | WISE (1)                                                                        |     1
+   4040 | Wei Liu   | EURASIP J. Wireless Comm. and Networking                                        |     3
+   6036 | Wei Wang  | J. Comput. Sci. Technol.                                                        |     4
+   4040 | Wei Liu   | Edutainment                                                                     |     1
+   4040 | Wei Liu   | RoboCup                                                                         |     2
+   4040 | Wei Liu   | Wireless Sensor Network                                                         |     1
+   6036 | Wei Wang  | IJCNN                                                                           |     7
+   6036 | Wei Wang  | MUE                                                                             |     1
+   6036 | Wei Wang  | EMEIT                                                                           |     6
+   6036 | Wei Wang  | IPDPS                                                                           |     2
+  21694 | Yan Zhang | SmartGridComm                                                                   |     1
+   6036 | Wei Wang  | ESORICS (2)                                                                     |     1
+   4040 | Wei Liu   | IJAHUC                                                                          |     1
+  21694 | Yan Zhang | CSE (2)                                                                         |     1
+   4040 | Wei Liu   | WHICEB                                                                          |     1
+   4040 | Wei Liu   | IJCNLP                                                                          |     1
+  21694 | Yan Zhang | Pervasive and Mobile Computing                                                  |     1
+   4040 | Wei Liu   | Journal of Intelligent and Robotic Systems                                      |     1
+  21694 | Yan Zhang | WICON                                                                           |     2
+   6036 | Wei Wang  | IJIIDS                                                                          |     2
+  21694 | Yan Zhang | SET                                                                             |     1
+   6036 | Wei Wang  | HCI (12)                                                                        |     2
+   6036 | Wei Wang  | IJMIC                                                                           |     2
+   4040 | Wei Liu   | Web Intelligence/IAT Workshops                                                  |     1
+   4040 | Wei Liu   | IEEE Transactions on Information Forensics and Security                         |     1
+   6036 | Wei Wang  | Educational Technology&Society                                                  |     1
+   4040 | Wei Liu   | Appl. Soft Comput.                                                              |     2
+  21694 | Yan Zhang | IJAGR                                                                           |     1
+  21694 | Yan Zhang | QSHINE                                                                          |     3
+   4040 | Wei Liu   | IJCAT                                                                           |     1
+   6036 | Wei Wang  | Intelligent Information Processing                                              |     1
+   6036 | Wei Wang  | IEEE ICCI                                                                       |     1
+   6036 | Wei Wang  | Int. J. Systems Science                                                         |     2
+  21694 | Yan Zhang | ICAT                                                                            |     1
+  21694 | Yan Zhang | Graphical Models                                                                |     1
+   4040 | Wei Liu   | BIFE                                                                            |     1
+   6036 | Wei Wang  | MOBILWARE                                                                       |     1
+   6036 | Wei Wang  | Mach. Vis. Appl.                                                                |     1
+   4040 | Wei Liu   | ICCD                                                                            |     1
+   6036 | Wei Wang  | Microelectronics Journal                                                        |     2
+   4040 | Wei Liu   | International Journal of Computer Vision                                        |     1
+   4040 | Wei Liu   | DSP                                                                             |    11
+   4040 | Wei Liu   | PMAM                                                                            |     1
+   6036 | Wei Wang  | IEEE Transactions on Intelligent Transportation Systems                         |     4
+   6036 | Wei Wang  | IEEE Trans. on Circuits and Systems                                             |     6
+   6036 | Wei Wang  | Discrete Mathematics                                                            |     2
+   4040 | Wei Liu   | ICCV                                                                            |     3
+   6036 | Wei Wang  | Neurocomputing                                                                  |     5
+   4040 | Wei Liu   | IEEE Micro                                                                      |     2
+  21694 | Yan Zhang | HIS (3)                                                                         |     1
+   6036 | Wei Wang  | ISQED                                                                           |     1
+  21694 | Yan Zhang | ICIG                                                                            |     1
+   6036 | Wei Wang  | RACS                                                                            |     7
+   4040 | Wei Liu   | RTCSA                                                                           |     1
+   4040 | Wei Liu   | Modelling and Simulation                                                        |     1
+   6036 | Wei Wang  | J. Network and Computer Applications                                            |     2
+   6036 | Wei Wang  | Int. Conf. Interaction Sciences                                                 |     1
+  21694 | Yan Zhang | Theor. Comput. Sci.                                                             |     2
+   6036 | Wei Wang  | COMPSAC                                                                         |     1
+  21694 | Yan Zhang | RSFDGrC                                                                         |     1
+  21694 | Yan Zhang | ICCSA (4)                                                                       |     1
+   6036 | Wei Wang  | SERVICES                                                                        |     1
+   4040 | Wei Liu   | MICCAI (2)                                                                      |     2
+   6036 | Wei Wang  | CVPR                                                                            |     3
+   4040 | Wei Liu   | CSCW Companion                                                                  |     1
+  21694 | Yan Zhang | NPC                                                                             |     1
+   6036 | Wei Wang  | ICC (2)                                                                         |     1
+   4040 | Wei Liu   | Systems&Control Letters                                                         |     1
+   6036 | Wei Wang  | Science in China Series F: Information Sciences                                 |     1
+   4040 | Wei Liu   | RAM/CIS                                                                         |     1
+   4040 | Wei Liu   | AI in Engineering                                                               |     1
+  21694 | Yan Zhang | DATE                                                                            |     2
+  21694 | Yan Zhang | ITST                                                                            |     1
+  21694 | Yan Zhang | iConference                                                                     |     2
+   6036 | Wei Wang  | CSSP                                                                            |     2
+   6036 | Wei Wang  | Fuzzy Sets and Systems                                                          |     2
+   4040 | Wei Liu   | TSD                                                                             |     2
+  21694 | Yan Zhang | J. Artif. Intell. Res. (JAIR)                                                   |     4
+   6036 | Wei Wang  | J. Network Syst. Manage.                                                        |     1
+   4040 | Wei Liu   | Journal of Multimedia                                                           |     3
+   4040 | Wei Liu   | BIBM                                                                            |     2
+   6036 | Wei Wang  | NeuroImage                                                                      |     1
+  21694 | Yan Zhang | Applied Informatics                                                             |     1
+   6036 | Wei Wang  | Austr. J. Intelligent Information Processing Systems                            |     1
+   4040 | Wei Liu   | MobiCom                                                                         |     1
+   4040 | Wei Liu   | ICC Workshops                                                                   |     2
+   6036 | Wei Wang  | ACM Comput. Surv.                                                               |     1
+   4040 | Wei Liu   | Int. J. Computational Intelligence Systems                                      |     1
+   6036 | Wei Wang  | WWW (Special interest tracks and posters)                                       |     2
+   6036 | Wei Wang  | CSIE (5)                                                                        |     1
+   6036 | Wei Wang  | IJKSS                                                                           |     1
+  21694 | Yan Zhang | ISSI                                                                            |     1
+   4040 | Wei Liu   | PATMOS                                                                          |     1
+   6036 | Wei Wang  | J. Comb. Theory, Ser. B                                                         |     1
+   4040 | Wei Liu   | ICCABS                                                                          |     1
+   6036 | Wei Wang  | FSKD (2)                                                                        |     3
+  21694 | Yan Zhang | IEEE Trans. Mob. Comput.                                                        |     2
+   4040 | Wei Liu   | Int. J. Computer Integrated Manufacturing                                       |     2
+   6036 | Wei Wang  | The Journal of Supercomputing                                                   |     1
+   4040 | Wei Liu   | APWeb/WAIM Workshops                                                            |     1
+  21694 | Yan Zhang | SMC                                                                             |     1
+   4040 | Wei Liu   | ICARCV                                                                          |     4
+  21694 | Yan Zhang | Inf. Process. Lett.                                                             |     1
+   6036 | Wei Wang  | European Journal of Operational Research                                        |     3
+  21694 | Yan Zhang | IWQoS                                                                           |     3
+  21694 | Yan Zhang | Journal of Computational Chemistry                                              |     1
+   6036 | Wei Wang  | PVLDB                                                                           |     4
+  21694 | Yan Zhang | APWeb/WAIM                                                                      |     1
+   6036 | Wei Wang  | Multimedia Tools Appl.                                                          |     3
+   6036 | Wei Wang  | ICSC                                                                            |     1
+   6036 | Wei Wang  | Communications in Statistics - Simulation and Computation                       |     1
+   4040 | Wei Liu   | IEEE Trans. Computers                                                           |     2
+  21694 | Yan Zhang | WCNC                                                                            |    18
+  21694 | Yan Zhang | Communications and Multimedia Security                                          |     1
+  21694 | Yan Zhang | SCIENCE CHINA Information Sciences                                              |     2
+  21694 | Yan Zhang | Integrated Computer-Aided Engineering                                           |     1
+  21694 | Yan Zhang | Knowl.-Based Syst.                                                              |     2
+   4040 | Wei Liu   | DALT                                                                            |     1
+   4040 | Wei Liu   | SII                                                                             |     1
+  21694 | Yan Zhang | Mathematical Structures in Computer Science                                     |     1
+   4040 | Wei Liu   | ISCSCT (1)                                                                      |     1
+   6036 | Wei Wang  | MVHI                                                                            |     4
+  21694 | Yan Zhang | Intelligent Information Processing                                              |     1
+   4040 | Wei Liu   | BMEI (1)                                                                        |     1
+   4040 | Wei Liu   | Personal and Ubiquitous Computing                                               |     1
+   4040 | Wei Liu   | EMS                                                                             |     1
+  21694 | Yan Zhang | IJMIC                                                                           |     1
+   4040 | Wei Liu   | ICESS                                                                           |     2
+   6036 | Wei Wang  | ACM Multimedia                                                                  |     4
+   4040 | Wei Liu   | CIS                                                                             |     3
+   6036 | Wei Wang  | IACR Cryptology ePrint Archive                                                  |     1
+  21694 | Yan Zhang | ISCAS (2)                                                                       |     1
+  21694 | Yan Zhang | EMEIT                                                                           |     1
+   6036 | Wei Wang  | SmartGridComm                                                                   |     1
+  21694 | Yan Zhang | ICLP                                                                            |     1
+   6036 | Wei Wang  | NPC                                                                             |     1
+   4040 | Wei Liu   | ICRA                                                                            |     3
+  21694 | Yan Zhang | COMPSAC                                                                         |     1
+   4040 | Wei Liu   | IEEE Transactions on Industrial Electronics                                     |     1
+   6036 | Wei Wang  | APWeb Workshops                                                                 |     1
+  21694 | Yan Zhang | RACS                                                                            |     1
+   6036 | Wei Wang  | Computer and Information Science                                                |     1
+   6036 | Wei Wang  | ICIG                                                                            |     3
+   4040 | Wei Liu   | ICE-B                                                                           |     1
+   4040 | Wei Liu   | ISCC                                                                            |     4
+   4040 | Wei Liu   | IEEE Communications Magazine                                                    |     1
+  21694 | Yan Zhang | Int. Conf. Interaction Sciences                                                 |     2
+   6036 | Wei Wang  | SCC                                                                             |     1
+  21694 | Yan Zhang | J. Network and Computer Applications                                            |     2
+   4040 | Wei Liu   | CCHI                                                                            |     1
+   4040 | Wei Liu   | Healthcom                                                                       |     2
+   4040 | Wei Liu   | PDCAT                                                                           |     1
+   4040 | Wei Liu   | EMBC                                                                            |     1
+  21694 | Yan Zhang | SC-HPRCTA                                                                       |     1
+  21694 | Yan Zhang | Microelectronics Journal                                                        |     1
+  21694 | Yan Zhang | Discrete Mathematics                                                            |     1
+  21694 | Yan Zhang | IEEE Transactions on Intelligent Transportation Systems                         |     1
+  21694 | Yan Zhang | Neurocomputing                                                                  |     3
+   4040 | Wei Liu   | CCCV (1)                                                                        |     1
+   4040 | Wei Liu   | J. Sensors                                                                      |     1
+  21694 | Yan Zhang | JELIA                                                                           |     3
+  21694 | Yan Zhang | CSIE (5)                                                                        |     1
+   4040 | Wei Liu   | Wireless Networks                                                               |     5
+  21694 | Yan Zhang | J. Log. Comput.                                                                 |     1
+  21694 | Yan Zhang | APCCAS                                                                          |     1
+   6036 | Wei Wang  | MSST                                                                            |     2
+  21694 | Yan Zhang | CSIE (1)                                                                        |     1
+(1617 rows)
+
